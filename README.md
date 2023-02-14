@@ -4,6 +4,8 @@
 
 This repository is meant as a collaboration platform for the [Bodega Map](https://www.bodegamap.com). The Bodega Map is a web application mapping the traditional Danish pubs / locals in the Copenhagen Area, with functionalities for registered users.
 
+![image](https://user-images.githubusercontent.com/10244927/218881806-fdea9abe-1264-4ece-9d1c-c1b532c473f2.png)
+
 ## How to collaborate
 
 ### Found an issue with the website?
@@ -16,7 +18,7 @@ Open a [discussion](https://github.com/tmlmt/bodegamap-collab/discussions) first
 
 ### Want to translate in another language or a local dialect?
 
-Currently , the website has Danish 🇩🇰 and English 🇺🇸/🇬🇧 translations, but it is structured so that adding new languages is really easy. We just need to set up a good system for proposing translations: if it's not in place yet and you'd like to contribute, no problem, write a message in the [Discussions](https://github.com/tmlmt/bodegamap-collab/discussions) area.
+Currently, the website has Danish 🇩🇰 and English 🇺🇸/🇬🇧 translations, but it is structured so that adding new languages is really easy. We just need to set up a good system for proposing translations: if it's not in place yet and you'd like to contribute, no problem, write a message in the [Discussions](https://github.com/tmlmt/bodegamap-collab/discussions) area.
 
 ## Rules
 
