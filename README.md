@@ -6,6 +6,12 @@ This repository is meant as a collaboration platform for the [Bodega Map](https:
 
 ![image](https://user-images.githubusercontent.com/10244927/218881806-fdea9abe-1264-4ece-9d1c-c1b532c473f2.png)
 
+## Changelog
+
+- [v1.10.0](https://github.com/tmlmt/bodegamap-collab/discussions/21) (20-02-2023)
+- v1.9.x: initial public release
+- v1.8 and below: alpha / beta releases
+
 ## How to collaborate
 
 ### Found an issue with the website?
