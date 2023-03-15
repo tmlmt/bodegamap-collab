@@ -33,7 +33,25 @@ Open a [discussion](https://github.com/tmlmt/bodegamap-collab/discussions) first
 
 ### Want to translate in another language or a local dialect?
 
-Currently, the website has Danish 🇩🇰 and English 🇺🇸/🇬🇧 translations, but it is structured so that adding new languages is really easy. We just need to set up a good system for proposing translations: if it's not in place yet and you'd like to contribute, no problem, write a message in the [Discussions](https://github.com/tmlmt/bodegamap-collab/discussions) area.
+Currently, the website has Danish 🇩🇰 and English 🇺🇸/🇬🇧 translations, but it is structured so that adding new languages is really easy. There are two ways you can contribute:
+
+#### 1. Indirect contribution by suggesting via a message, or if in doubt
+
+Write a message with your suggestions (corrections, clarification on how to help, wish for a specific translation, etc.) in the [Discussions](https://github.com/tmlmt/bodegamap-collab/discussions) area.
+
+#### 2. Direct contribution via a git pull request
+
+If you'd like to make direct contributions to this repository and you are comfortable using git (we can also help you if you [message](https://github.com/tmlmt/bodegamap-collab/discussions) us), please follow this procedure:
+
+- Install git (see [official doc](https://github.com/git-guides/install-git))
+- Clone this repository (`git clone https://github.com/tmlmt/bodegamap-collab.git`)
+  - If you want to suggest a correction to an already existing language, make that modification in the corresponding file
+  - If you want to suggest a translation into a new language, copy one of the existing ones (e.g. `locales/en.json`), rename it with the corresponding [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (e.g. `locale/fi.json`) and translate all value strings.
+- Commit your changes (`git commit -am "<message>"` with a descriptive `<message>` of less than 50 characters)
+- Push your change (`git push`)
+- Create a pull request to this repo (see [official doc](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+
+We will look at your request as soon as possible. This is the quickest way to implement a change, and the easiest for us.
 
 ## Rules
 
