@@ -25,7 +25,7 @@ Regarding pictures, please include your name and the date at which the picture w
 
 ### Have an idea? 💡
 
-Open a [discussion](https://github.com/tmlmt/bodegamap-collab/discussions) first in the Ideas category 😊
+Ideas are listed in the [issues](https://github.com/tmlmt/bodegamap-collab/issues) area, with a specific `feature-request` tag. If your area is already listed, do not hesitate to react on it to "upvote" it. If not, you can either suggest your idea directly in that area as a new issue, or open a [discussion](https://github.com/tmlmt/bodegamap-collab/discussions) in the Ideas category if you want to discuss it first with others.
 
 ### Want to translate in another language or a local dialect?
 

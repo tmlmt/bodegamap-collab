@@ -15,7 +15,7 @@ I kan selvfølgelig bruge [kontaktformularen](/contact) til hurtige forslag, men
 
 ### Er der en fejl på hjemmesiden? 🐛
 
-Tjek, at den ikke allerede meldt på [issues](https://github.com/tmlmt/bodegamap-collab/issues) listen. Hvis det ikke er tilfældet, oprette en ny issue.
+Tjek, om den ikke allerede meldt på [issues](https://github.com/tmlmt/bodegamap-collab/issues) listen. Hvis det ikke er tilfældet, oprette en ny issue.
 
 ### Mangler der åbningstider, et billede 📷 eller noget andet 🗃️ om din ynglingsværthus?
 
@@ -25,7 +25,7 @@ Når det kommer til billeder, oplys venligst dit navn, og datoen, hvor billedet 
 
 ### Har du en idé? 💡
 
-Oprette en [diskussion](https://github.com/tmlmt/bodegamap-collab/discussions) i Ideas-kategorien 😊
+Ideerne er opført i [issues](https://github.com/tmlmt/bodegamap-collab/issues)-området, med en specifisk `feature-request` tag på. Hvis din idé allerede er på, reagere meget gerne på den for at "opstemme" den. Hvis ikke, du kan enten forslå en ide direkte der som en ny issue, eller oprette en [diskussion](https://github.com/tmlmt/bodegamap-collab/discussions) i Ideas-kategorien hvis du gerne vil drøfte det først med andre.
 
 ### Vil du hjælpe med at oversætte hjemmesiden til et andet sprog eller en lokal dialekt?
 
