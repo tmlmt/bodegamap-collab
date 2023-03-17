@@ -118,6 +118,7 @@
   "Unknown": "Ukendt",
   "User": "Bruger",
   "Visited": "Besøgt",
+  "Wiki": "Wiki",
   "Would like to help update this info?": "Vil du hjælpe med at opdatere denne info?",
   "Yes": "Ja",
   "You are logged in as": "Du er logget ind som: {name}",
@@ -233,6 +234,5 @@
 
   "//COMMENT: NO NEED FOR MANUAL TRADUCTION -- automatically composed -- ": "",
 
-  "AboutBodegaMap": "@:About @:BodegaMap",
   "and": "@.lower:And"
 }

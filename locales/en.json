@@ -118,6 +118,7 @@
   "Unknown": "Unknown",
   "User": "User",
   "Visited": "Visited",
+  "Wiki": "Wiki",
   "Would like to help update this info?": "Would like to help update this info?",
   "Yes": "Yes",
   "You are logged in as": "You are logged in as: {name}",
@@ -234,6 +235,5 @@
 
   "//COMMENT: NO NEED FOR MANUAL TRADUCTION -- automatically composed -- ": "",
 
-  "AboutBodegaMap": "@:About @:BodegaMap",
   "and": "@.lower:And"
 }
