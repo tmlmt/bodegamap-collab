@@ -1,4 +1,6 @@
-export const sidebar = [
+import { WikiOutline } from "../../../types/wiki";
+
+export const sidebar: WikiOutline[] = [
   {
     text: "Introduktion",
     collapsible: false,
