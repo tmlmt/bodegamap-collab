@@ -1,5 +1,5 @@
 ---
-title: Om Bodega Map
+title: Bodega Map | Om Bodega Map
 ---
 
 # 🗺 Hvad er Bodega Map?

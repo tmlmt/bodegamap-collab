@@ -1,5 +1,5 @@
 ---
-title: Samarbejde
+title: Bodega Map | Samarbejde
 description: Bodega Map er tænkt som et samarbejdsprojekt, og alle er velkomne til at bidrage
 ---
 

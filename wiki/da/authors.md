@@ -1,5 +1,5 @@
 ---
-title: Hvem står bed det?
+title: Bodega Map | Hvem står bed det?
 ---
 
 # 🕺 Hvem står bag det?

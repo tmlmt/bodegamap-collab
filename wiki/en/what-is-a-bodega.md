@@ -1,5 +1,5 @@
 ---
-title: What is a bodega?
+title: Bodega Map | What is a bodega?
 ---
 
 # What is a bodega?

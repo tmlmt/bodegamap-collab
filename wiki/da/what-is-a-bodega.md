@@ -1,5 +1,5 @@
 ---
-title: Hvad er en bodega?
+title: Bodega Map | Hvad er en bodega?
 ---
 
 # Hvad er en bodega?

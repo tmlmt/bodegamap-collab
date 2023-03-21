@@ -1,5 +1,5 @@
 ---
-title: Roadmap and Changelog
+title: Bodega Map | Roadmap and Changelog
 ---
 
 # 🚀 Roadmap and Changelog

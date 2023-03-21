@@ -1,5 +1,5 @@
 ---
-title: About
+title: Bodega Map | About
 ---
 
 # 🗺 What is Bodega Map?

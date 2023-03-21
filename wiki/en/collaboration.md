@@ -1,5 +1,5 @@
 ---
-title: Collaboration
+title: Bodega Map | Collaboration
 description: Bodega Map is thought as a collaborative project and all are welcome to contribute
 ---
 

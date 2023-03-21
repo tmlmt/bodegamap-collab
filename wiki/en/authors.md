@@ -1,5 +1,5 @@
 ---
-title: About the authors
+title: Bodega Map | About the authors
 ---
 
 # 🕺 About the authors
