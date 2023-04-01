@@ -10,6 +10,9 @@ This repository is meant as a collaboration platform for the [Bodega Map](https:
 
 ### Main app
 
+- [v1.14.0](https://github.com/tmlmt/bodegamap-collab/discussions/35) (01-04-2023)
+- [v1.13.1](https://github.com/tmlmt/bodegamap-collab/discussions/31) (17-03-2023)
+- [v1.13.0](https://github.com/tmlmt/bodegamap-collab/discussions/30) (17-03-2023)
 - [v1.12.0](https://github.com/tmlmt/bodegamap-collab/discussions/27) (06-03-2023)
 - [v1.11.0](https://github.com/tmlmt/bodegamap-collab/discussions/26) (03-03-2023)
 - [v1.10.1](https://github.com/tmlmt/bodegamap-collab/discussions/23) (26-02-2023)
