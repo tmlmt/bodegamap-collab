@@ -1,0 +1,206 @@
+{
+  "//COMMENT: MANUAL TRANSLATION REQUIRED -- standard messages": "",
+
+  "About": "Sobre",
+  "Account": "Cuenta",
+  "Address": "Dirección",
+  "And": "Y",
+  "Article available soon": "Articulo pronto disponible",
+  "Authors": "Autores",
+  "BodegaMap": "Bodega Map",
+  "BuyMeATuborg": "Cómprame una Tuborg",
+  "Characteristics": "Caracterícticas",
+  "City": "Ciudad",
+  "Closed": "Cerrado",
+  "Closed - Opens Next": "{closed} - Abierto {day} a las {time}",
+  "Confirmation": "Confirmación",
+  "Confirm your new password": "Confirma tu nueva contraseña",
+  "Contact": "Contacto",
+  "ContactText": "Bienvenido a {link}, si tienes alguna pregunta, sugerencia o simplemente para saludar!",
+  "Contact Form": "Formulario de contacto",
+  "Contact us": "contacta con nosotros",
+  "Current version": "Versión actual",
+  "Details": "Detalles",
+  "Disclaimer": "Exención",
+  "DisclaimerText": "Este proyecto está impulsado por nuestra pasión por las bodegas y se inició después de que decidiéramos compartir nuestro enfoque práctico: inicialmente solo buscábamos una forma de averiguar qué bodega probar y guardar nuestros recuerdos sobre ellas. Somos muy consciente de que los datos presentados aquí no son exhaustivos, pueden contener errores y carecen de la profundidad y precisión que posee la comunidad local en general (tanto clientes habituales, periodistas, investigadores o grupos de entusiastas en las redes sociales)",
+  "Discussions": "Conversaciones",
+  "E-mail": "Email",
+  "E-mail verification": "Email de verificación",
+  "Filter": "Filtro",
+  "Filter by name": "Filtrar por nombre",
+  "First name": "Nombre",
+  "Forgot your password?": "Olvidaste tu contraseña?",
+  "Games": "Juegos",
+  "Billard": "Billar",
+  "Table football": "Futbolin",
+  "Darts": "Dardos",
+  "Has a billard table": "Tiene mesa de billar",
+  "Has a dartboard": "Tiene dardos",
+  "Has a table football table": "Tiene futbolin",
+  "Has images": "Tiene imágenes",
+  "Images": "Imágenes",
+  "In Stamsteder's List": "En lista Stamsteder 📙",
+  "In Stamsteder's List With Link": "En la lista de Stamsteder con {link}s 📙",
+  "Issues": "Problemas",
+  "Last name": "Apellido",
+  "Loading...": "Cargando…",
+  "Maybe": "Quizás",
+  "Message": "Mensaje",
+  "My Account": "Mi Cuenta",
+  "Name": "Nombre",
+  "New password": "Nueva contraseña",
+  "No": "No",
+  "No bodega selected": "No bodega seleccionada",
+  "No bodega in current view": "No bodega en la ventana actual",
+  "Number of bodegas in database": "Número de bodegas en la base de datos",
+  "Total estimated in Denmark": "Total estimadas en Dinamarca",
+  "Number of bodegas with at least one image": "Número de bodegas con al menos una imagen",
+  "Number of bodegas with opening hours": "Número de bodegas con horarios de aperturas",
+  "Number of bodegas with all characteristics filled in": "Número de bodegas con todas las caracterícticas completadas",
+  "Open": "Abierto",
+  "Open now": "Abierto ahora",
+  "Open until": "{open} hasta kl.{time}",
+  "Opening Hours": "Horario de apertura",
+  "Optional": "Opcional",
+  "Password": "Contraseña",
+  "Pick a password": "Selecciona una contraseña",
+  "Repository": "Repositorio",
+  "Roadmap and Collaboration": "Mapa de ruta y colaboración",
+  "RoadmapText": "@:BodegaMap no está terminado porque todavía tenemos muchas ideas en la cabeza. Se implementarán según el tiempo lo permita en nuestro tiempo libre. ¡Nos encantaría saber de ti al respecto!",
+  "CollaborationText": "Hemos puesto un {link} en Github donde puedes unirte y contribuir. Consta de dos áreas claves:",
+  "CollaborationItem1": "un área de {link} donde puede reportar errores o ver qué errores o características están pendientes en este momento",
+  "CollaborationItem2": "un área de {link} en la que puede aportar ideas o sugerencias de traducción, ver una descripción general del registro de cambios y la hoja de ruta y, por supuesto, hablar sobre los pubs en general",
+  "Several requirements unmet": "Múltiples requisitos no complidos",
+  "Almost there": "Casi conseguido",
+  "At least one lowercase": "Al menos una minúscula",
+  "At least one uppercase": "Al menos una mayúscula",
+  "At least one numeric": "Al menos un número",
+  "At least one special character": "Al menos un carácter especial",
+  "Minimum 8 characters": "Mínimo 8 caracteres",
+  "Phone number": "Teléfono de contacto",
+  "Post Code (Short)": "CP",
+  "Post Code": "Código Postal",
+  "Privacy Policy": "Política de Privacidad",
+  "RecaptchaNote": "Esta website está protegida por reCAPTCHA, y se aplica la política y términos de privacidad de Google {privacy} {terms}",
+  "Recover your password": "Recupera tu contraseña",
+  "Regenerate": "Regenerar",
+  "Register": "Registrarse",
+  "Requirements": "Requisitos",
+  "Save": "Guardar",
+  "Send us some feedback": "Esperamos escuchar de ti. Deja un mensaje aquí y los responderemos lo antes posible :)) Hablamos Danés 🇩🇰, Francés 🇫🇷, Inglés 🇺🇸 y Japonés 🇯🇵.",
+  "shortDay": {
+    "Mon": "Lu",
+    "Tue": "Ma",
+    "Wed": "Mi",
+    "Thu": "Ju",
+    "Fri": "Vi",
+    "Sat": "Sa",
+    "Sun": "Do"
+  },
+  "Show": "Mostrar",
+  "Show List": "Mostrar Lista",
+  "Hide List": "Ocultar Lista",
+  "Show Map": "Mostrar Mapa",
+  "Show Sidepanel": "Mostrar panel lateral",
+  "Smoking allowed": "Permitido fumar",
+  "Smoking not allowed": "Prohibido fumar",
+  "Sign in": "Iniciar sesión",
+  "Sign out": "Finalizar sessión",
+  "Statistics": "Estadísticas",
+  "Street": "Calle",
+  "Strong": "Fuerte",
+  "Submit": "Enviar",
+  "Support": "Ayuda",
+  "TBD": "Por determinar",
+  "Terms of Service": "Términos de Servicio",
+  "This is a community project": "Esto es un proyecto comunitario",
+  "Top 10 visited": "Top 10 en visitas",
+  "Unknown": "Desconocido",
+  "User": "Usuario",
+  "Visited": "Visitado",
+  "Wiki": "Wiki",
+  "Would like to help update this info?": "Te gustaría ayudar con la actualización de esta información?",
+  "Yes": "Si",
+  "You are logged in as": "Has iniciado sesión como: {nombre}",
+
+  "//COMMENT: MANUAL TRANSLATION REQUIRED -- all errors messages": "",
+
+  "info": {
+    "fallbackLocale": "Idioma alternativo",
+    "fallbackLocaleDetail": "Las páginas Wiki aún no están disponibles en español. Se mostrarán en inglés."
+  },
+
+  "Error": "Error",
+  "error": {
+    "couldNotLoadData": "La información no pudo cargarse",
+    "notFilledIn": "Incompleto",
+    "emailNotValid": "Email no válido",
+    "emailNotVerified": "Email no verificado",
+    "passwordNotStrongEnough": "Contraseña no segura",
+    "passwordNotSame": "La contraseña no es la misma",
+    "notLoggedIn": "No has iniciado sesión",
+    "wrongCredentials": "Credenciales incorrectos",
+    "generateKey": "Generar clave",
+    "keyExpired": "Clave caducada",
+    "noKey": "No clave",
+    "wrongKey": "Clave incorrecta",
+    "wrongRecoveryKey": "Clave recuperada incorrecta",
+    "alreadyVerified": "Verificado",
+    "recoveryLinkExpired": "Recuperar link caducado",
+    "unauthenticated": "No autenticado",
+    "unknown": "Desconocido"
+  },
+
+  "success": {
+    "accountCreated": "Tu cuenta ha sido creada. Ve a tu bandeja de entrada para confirmar tu correo electrónico",
+    "emailVerified": "Email verificado",
+    "newKeySent": "Nueva clave enviada",
+    "recoveryEmailSent": "Email de recuperación enviado",
+    "passwordChanged": "Contraseña cambiada"
+  },
+
+  "//COMMENT: MANUAL TRANSLATION REQUIRED -- SEO metadata": "",
+
+  "meta": {
+    "index": {
+      "title": "Menú principal",
+      "description": "Descubre los pubs de Dinamarca en un mapa interactivo y encuentra el más cercano!"
+    },
+    "about": {
+      "title": "Acerca de",
+      "description": "Algunas palabras sobre los creadores de @:BodegaMap y la motivación detrás del proyecto."
+    },
+    "stats": {
+      "title": "Estadísticas",
+      "description": "La base de datos de Bodega en números: porcentaje de cobertura de Dinamarca, número con características específicas, etc."
+    },
+    "contact": {
+      "title": "Contacto",
+      "description": "Complete este formulario de contacto y envíenos sus comentarios. Esperamos saber de ti y lo que piensas de @:BodegaMap"
+    },
+    "login": {
+      "title": "Inicia sesión",
+      "description": "Inicia sesión en @:BodegaMap y acceda a funciones exclusivas para miembros."
+    },
+    "account": {
+      "title": "Mi cuenta",
+      "description": "Ver y editar los detalles de tu cuenta @:BodegaMap"
+    },
+    "register": {
+      "title": "Crear una cuenta",
+      "description": "Crea una cuenta y disfruta de las funciones de Bodega Map exclusivas para los usuarios"
+    },
+    "verify": {
+      "title": "Confirmación de correo electrónico",
+      "description": "Página de confirmación de correo electrónico para cuentas Bodega Map"
+    },
+    "recovery": {
+      "title": "Recuperación de contraseña",
+      "description": "Código de recuperación de contraseña para cuentas Bodega Map"
+    }
+  },
+
+  "//COMMENT: NO NEED FOR MANUAL TRADUCTION -- automatically composed -- ": "",
+
+  "and": "@.lower:And"
+}
