@@ -51,6 +51,7 @@
   "In Stamsteder's List With Link": "In {link}'s List 📙",
   "Issues": "Issues",
   "Last name": "Last name",
+  "Link copied to clipboard": "Link copied to clipboard",
   "Loading...": "Loading...",
   "Maybe": "Maybe",
   "Message": "Message",
@@ -97,6 +98,7 @@
   "CollaborationItem2": "a {link} section, where you can propose ideas or translations, get an overview of thez changelog and the roadmap, and of course discuss about bodegas in general",
   "Save": "Save",
   "Send us some feedback": "We would love to hear from you. Send us a message here, and we'll reply when we can take the time :)) We speak English 🇺🇸, Danish 🇩🇰, French 🇫🇷, and Japanese 🇯🇵.",
+  "Share link with filters": "Share link with filters",
   "shortDay": {
     "Mon": "Mon",
     "Tue": "Tue",

@@ -51,6 +51,7 @@
   "In Stamsteder's List With Link": "En la lista de Stamsteder con {link}s 📙",
   "Issues": "Problemas",
   "Last name": "Apellido",
+  "Link copied to clipboard": "Enlace copiado al portapapeles",
   "Loading...": "Cargando…",
   "Maybe": "Quizás",
   "Message": "Mensaje",
@@ -106,6 +107,7 @@
     "Sat": "Sa",
     "Sun": "Do"
   },
+  "Share link with filters": "Compartir enlace con filtros",
   "Show": "Mostrar",
   "Show List": "Mostrar Lista",
   "Hide List": "Ocultar Lista",

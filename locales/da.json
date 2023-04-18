@@ -51,6 +51,7 @@
   "In Stamsteder's List With Link": "I {link}s liste 📙",
   "Issues": "Issues",
   "Last name": "Efternavn",
+  "Link copied to clipboard": "Link kopieret til udklipsholder",
   "Loading...": "Indlæser...",
   "Maybe": "Måske",
   "Message": "Besked",
@@ -106,6 +107,7 @@
     "Sat": "Lør",
     "Sun": "Son"
   },
+  "Share link with filters": "Del link med filtre",
   "Show": "Vis",
   "Show List": "Vis Liste",
   "Hide List": "Skjul Liste",
