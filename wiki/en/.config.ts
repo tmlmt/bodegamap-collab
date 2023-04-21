@@ -16,6 +16,11 @@ export const sidebar: WikiOutline[] = [
     collapsible: false,
     items: [{ text: "What is a bodega?", link: "what-is-a-bodega" }],
   },
+  {
+    text: "Legal",
+    collapsible: true,
+    items: [{ text: "Privacy Policy", link: "privacy-policy" }],
+  },
   /* {
     text: "References",
     collapsible: true,
