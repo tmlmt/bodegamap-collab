@@ -20,6 +20,17 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.21.1
+
+#### 🩹 Fixes
+
+- Use relative url in Privacy Policy
+- Canonical url and title for map called with with specific coordinates (e.g. https://www.bodegamap.com/@12,55,12z)
+
+#### 🏡 Chore
+
+- Port to Umami Analytics v2
+
 ### v1.21.0: Wiki Updates Edition
 
 #### 🚀 Enhancements
