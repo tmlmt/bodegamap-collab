@@ -20,6 +20,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.22.1
+
+#### 🩹 Fixes
+
+- Various PWA fixes, including icon background and header border
+
 ### v1.22.0: PWA Edition
 
 #### 🚀 Enhancements
