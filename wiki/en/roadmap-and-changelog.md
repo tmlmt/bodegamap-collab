@@ -20,6 +20,20 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.22.0: PWA Edition
+
+#### 🚀 Enhancements
+
+- Turn the website into a minimal [Progressive Web Map](https://web.dev/progressive-web-apps/): no offline feature yet, but adds the possibility on mobile devices to save the Bodega Map on your homescreen:
+  - Why? This facilitates quick access to the map, and maximizes screen use (e.g. no address bar or tab management bars that are typically in web browsers)
+  - How? On iPhone, this is only feasible using _Safari_: click on the share button and select `Save on homescreen`. On Android, select the similar option in the menu of your favorite web browser.
+
+#### 🩹 Fixes
+
+- **security:** (Re-)allow geolocation feature
+- Only auto-trigger geolocate on firefox (temp-fix due to on-going issue)
+- Toast messages wider than the screen on mobile devices
+
 ### v1.21.1
 
 #### 🩹 Fixes
