@@ -20,6 +20,40 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.22.5
+
+#### 🔥 Performance
+
+- 20% faster loading of bodega clusters
+
+#### 🏡 Chore
+
+- Various updates under the hood
+
+### v1.22.4
+
+#### 📦 Build / ✅ Tests / 🏡 Chore
+
+- Various updates and improvements under the hood.
+
+### v1.22.3
+
+#### 🏡 Chore
+
+- Various updates under the hood
+
+### v1.22.2
+
+#### 🩹 Fixes
+
+- **seo:** Title on index page and preferred locale
+
+### v1.22.1
+
+#### 🩹 Fixes
+
+- Various PWA fixes, including icon background and header border
+
 ### v1.22.0: PWA Edition
 
 #### 🚀 Enhancements
