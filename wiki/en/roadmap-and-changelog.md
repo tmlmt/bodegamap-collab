@@ -20,6 +20,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.22.7
+
+#### 🏡 Chore
+
+- Various updates under the hood
+
 ### v1.22.6
 
 #### 🩹 Fixes
