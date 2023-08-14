@@ -20,6 +20,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.22.6
+
+#### 🩹 Fixes
+
+- **RightSidebar:** Image sizes
+
 ### v1.22.5
 
 #### 🔥 Performance
