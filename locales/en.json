@@ -174,10 +174,10 @@
     "AddBodega": "Add Bodega",
     "AddToDatabase": "Add to Database",
     "AdminMode": "Admin mode",
-    "AreYouSureDelete": "Are you sure you want to delete {bodega}?",
+    "AreYouSureDelete": "Are you sure you want to delete {item}?",
     "AreYouSureDeleteImage": "Are you sure you want to delete this image?",
     "Cancel": "Cancel",
-    "CouldNotDelete": "Could not delete {bodega}",
+    "CouldNotDelete": "Could not delete {item}",
     "CouldNotDeleteImage": "Could not delete image",
     "days": {
       "Monday": "Monday",
@@ -200,7 +200,7 @@
     "PleaseEnterName": "Please enter a name",
     "Save": "Save",
     "StreetHelp": "Enter street name and number",
-    "SuccessfullyDeleted": "Successfully deleted {bodega}",
+    "SuccessfullyDeleted": "Successfully deleted {item}",
     "to": "to",
     "Users": "Users"
   },

@@ -173,10 +173,10 @@
     "AddBodega": "Tilføje Bodega",
     "AddToDatabase": "Føje til Database",
     "AdminMode": "Admin mode",
-    "AreYouSureDelete": "Er du sikker på, at du vil slette {bodega}?",
+    "AreYouSureDelete": "Er du sikker på, at du vil slette {item}?",
     "AreYouSureDeleteImage": "Er du sikker på, at du vil slette dette billede?",
     "Cancel": "Aflyse",
-    "CouldNotDelete": "Kunne ikke slette {bodega}",
+    "CouldNotDelete": "Kunne ikke slette {item}",
     "CouldNotDeleteImage": "Kunne ikke slette billede",
     "days": {
       "Monday": "Mandag",
@@ -199,7 +199,7 @@
     "PleaseEnterName": "Husk at indtaste et navn",
     "Save": "Gem",
     "StreetHelp": "Indtast gadenavn og nummer",
-    "SuccessfullyDeleted": "Slettet {bodega}",
+    "SuccessfullyDeleted": "Slettet {item}",
     "to": "til",
     "Users": "Bruger"
   },
