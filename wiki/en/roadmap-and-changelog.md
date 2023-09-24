@@ -20,6 +20,23 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog
 
+### v1.23.1
+
+### 🩹 Fixes
+
+- Preferred language is not correctly remembered
+- Bodegas now correctly load after sign-in
+
+#### 🏡 Chore
+
+- Various updates under the hood
+
+### v1.23.0
+
+#### 🚀 Enhancements
+
+- User management for admins
+
 ### v1.22.7
 
 #### 🏡 Chore
