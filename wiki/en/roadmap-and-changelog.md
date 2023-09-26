@@ -1,6 +1,18 @@
 ---
 title: Bodega Map | Roadmap and Changelog
 description: List of changes and plans for future developments
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-03-17"
+    - property: "article:modified_time"
+      content: "2023-09-24"
+    - property: "article:section"
+      content: "Introduction"
 ---
 
 # 🚀 Roadmap and Changelog

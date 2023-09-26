@@ -1,6 +1,18 @@
 ---
 title: Bodega Map | Collaboration
 description: Bodega Map is thought as a collaborative project and all are welcome to contribute
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-03-17"
+    - property: "article:modified_time"
+      content: "2023-04-21"
+    - property: "article:section"
+      content: "Contribution"
 ---
 
 # 🤝 Collaboration

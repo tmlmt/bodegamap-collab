@@ -1,6 +1,16 @@
 ---
 title: Bodega Map | What is a bodega?
 description: What makes a bodega a bodega, and what distinguishes them from regular bars?
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-03-17"
+    - property: "article:section"
+      content: "Q&A"
 ---
 
 # What is a bodega?

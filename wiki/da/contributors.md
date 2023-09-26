@@ -1,6 +1,16 @@
 ---
 title: Bodega Map | Bidragydere
 description: Liste over folk, der har bidraget til Bodega Map, med en beskrivelse af deres individuelle bidrag
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-04-21"
+    - property: "article:section"
+      content: "Bidrag"
 ---
 
 # ❤️ Bidragydere

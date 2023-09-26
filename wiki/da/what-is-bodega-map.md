@@ -1,6 +1,16 @@
 ---
 title: Bodega Map | Om Bodega Map
 description: Bodega Map er et interaktivt kort som viser Danmarks værsthus med øvrige funktionaliteter tilgængelige for alle besøger, helt gratis.
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-03-17"
+    - property: "article:section"
+      content: "Introduktion"
 ---
 
 # 🗺 Hvad er Bodega Map?

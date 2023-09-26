@@ -1,6 +1,18 @@
 ---
 title: Bodega Map | Samarbejde
 description: Bodega Map er tænkt som et samarbejdsprojekt, og alle er velkomne til at bidrage
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-03-17"
+    - property: "article:modified_time"
+      content: "2023-04-21"
+    - property: "article:section"
+      content: "Bidrag"
 ---
 
 # 🤝 Samarbejde

@@ -1,5 +1,16 @@
 ---
 title: Bodega Map | Privacy Policy
+description: Our policies and procedures on the collection, use and disclosure of your information when you use Bodega Map
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-04-21"
+    - property: "article:section"
+      content: "Legal"
 ---
 
 # 🕵️ Privacy Policy

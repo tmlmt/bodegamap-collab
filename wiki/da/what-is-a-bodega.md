@@ -1,6 +1,16 @@
 ---
 title: Bodega Map | Hvad er en bodega?
 description: Hvad gør en bodega til bodega, og hvad adskiller dem fra almindelige barer?
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-03-17"
+    - property: "article:section"
+      content: "Q&A"
 ---
 
 # Hvad er en bodega?

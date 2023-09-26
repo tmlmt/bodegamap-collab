@@ -1,6 +1,16 @@
 ---
 title: Bodega Map | Contributors
 description: List of the contributors to the Bodega Map, with a description of their individual contributions
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-04-21"
+    - property: "article:section"
+      content: "Contribution"
 ---
 
 # ❤️ Contributors

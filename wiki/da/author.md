@@ -1,6 +1,16 @@
 ---
 title: Bodega Map | Hvem står bed det?
 description: Bodega Map er et fælleskabssprojekt af Thomas Lamant (Github @tmlmt)
+head:
+  meta:
+    - property: "og:type"
+      content: "article"
+    - property: "article:author"
+      content: "https://github.com/tmlmt"
+    - property: "article:published_time"
+      content: "2023-04-21"
+    - property: "article:section"
+      content: "Introduktion"
 ---
 
 # 🕺 Hvem står bag det?
