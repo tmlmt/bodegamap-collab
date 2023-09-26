@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-04-21"
+      content: "2023-09-27"
     - property: "article:section"
       content: "Contribution"
 ---
@@ -43,7 +43,7 @@ Ideas are listed in the [issues](https://github.com/tmlmt/bodegamap-collab/issue
 
 ### Want to translate in another language or a local dialect?
 
-Currently, the website has Danish 🇩🇰 and English 🇺🇸/🇬🇧 translations, but it is structured so that adding new languages is really easy. You are also very welcome to suggest corrections to the existing languages. After all, Danish is not our mother tongue.
+Currently, the website has Danish 🇩🇰, English 🇺🇸/🇬🇧 and Spanish 🇪🇸 translations, but it is structured so that adding new languages is really easy. You are also very welcome to suggest corrections to the existing languages. After all, Danish is not our mother tongue.
 
 There are two ways you can contribute:
 
