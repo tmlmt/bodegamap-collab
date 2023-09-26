@@ -1,5 +1,6 @@
 ---
 title: Bodega Map | About the author
+description: Bodega Map is a community project by Thomas Lamant (Github @tmlmt)
 ---
 
 # 🕺 About the author

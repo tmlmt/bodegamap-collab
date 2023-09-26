@@ -1,5 +1,6 @@
 ---
 title: Bodega Map | About
+description: Bodega Map is an interactive map listing Denmark's traditional pubs with additional functionalities available for free to all visitors.
 ---
 
 # 🗺 What is Bodega Map?

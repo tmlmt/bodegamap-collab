@@ -1,5 +1,6 @@
 ---
 title: Bodega Map | Om Bodega Map
+description: Bodega Map er et interaktivt kort som viser Danmarks værsthus med øvrige funktionaliteter tilgængelige for alle besøger, helt gratis.
 ---
 
 # 🗺 Hvad er Bodega Map?

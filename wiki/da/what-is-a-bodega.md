@@ -1,5 +1,6 @@
 ---
 title: Bodega Map | Hvad er en bodega?
+description: Hvad gør en bodega til bodega, og hvad adskiller dem fra almindelige barer?
 ---
 
 # Hvad er en bodega?

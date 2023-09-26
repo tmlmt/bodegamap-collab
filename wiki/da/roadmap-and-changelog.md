@@ -1,5 +1,6 @@
 ---
 title: Bodega Map | Roadmap og Changelog
+description: Liste over ændringer og planer for fremtidige udviklinger
 ---
 
 # 🚀 Roadmap og Changelog
