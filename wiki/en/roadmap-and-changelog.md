@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-09-24"
+      content: "2023-09-27"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -31,11 +31,27 @@ The plans might change over time, but the focus in the coming period will revolv
 - Ability to main and share lists of places (for registered users)
 - Bug fixes and maybe some feature requests listed in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
-## Changelog
+### v1.24.0
+
+#### 🚀 Enhancements
+
+- **seo:** Add description and article meta data to all wiki pages
+
+#### ❤️ Contributors
+
+- **wiki:** Add 'A Classic Enthusiast' as a contributor
+
+#### 🔥 Performance
+
+- **RightSidebar:** Optimize image sizes and add placeholder for thumbnails
+
+#### 🩹 Fixes
+
+- **wiki:** [EN] Spanish translation is not mentioned ([c13a27e](https://github.com/tmlmt/bodegamapvue/commit/c13a27e))
 
 ### v1.23.1
 
-### 🩹 Fixes
+#### 🩹 Fixes
 
 - Preferred language is not correctly remembered
 - Bodegas now correctly load after sign-in
