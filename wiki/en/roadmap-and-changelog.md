@@ -31,6 +31,16 @@ The plans might change over time, but the focus in the coming period will revolv
 - Ability to main and share lists of places (for registered users)
 - Bug fixes and maybe some feature requests listed in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
+## v1.25.0
+
+#### 🚀 Enhancements
+
+- **RightSidebar:** Specify in orange when a bodega closes soon
+
+#### 🩹 Fixes
+
+- **pwa:** Allow cross-origin access of app icons and enable installing Bodega Map as an app from the browser
+
 ### v1.24.0
 
 #### 🚀 Enhancements
@@ -47,7 +57,7 @@ The plans might change over time, but the focus in the coming period will revolv
 
 #### 🩹 Fixes
 
-- **wiki:** [EN] Spanish translation is not mentioned ([c13a27e](https://github.com/tmlmt/bodegamapvue/commit/c13a27e))
+- **wiki:** [EN] Spanish translation is not mentioned
 
 ### v1.23.1
 
