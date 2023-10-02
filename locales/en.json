@@ -166,7 +166,11 @@
     "emailVerified": "E-mail verified",
     "newKeySent": "New key sent. Please check your inbox",
     "recoveryEmailSent": "Recovery e-mail sent. Please check your inbox",
-    "passwordChanged": "Password successfully changed"
+    "passwordChanged": "Password successfully changed",
+    "successfullySignedIn": "Successfully signed in",
+    "successfullySignedOut": "Successfully signed out",
+    "welcomeBack": "Welcome back, {firstName} !",
+    "seeYouSoon": "See you soon !"
   },
 
   "//COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it": "",

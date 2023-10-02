@@ -165,7 +165,11 @@
     "emailVerified": "Email befræftet",
     "newKeySent": "Ny nøgle afsendt. Tjek din indbakke",
     "recoveryEmailSent": "Gendannelses-email sendt. Tjek din indbakke",
-    "passwordChanged": "Ny adgangskode gemt"
+    "passwordChanged": "Ny adgangskode gemt",
+    "successfullySignedIn": "Logget ind",
+    "successfullySignedOut": "Logget ud",
+    "welcomeBack": "Velkommen tilbage, {firstName} !",
+    "seeYouSoon": "Vi ses snart !"
   },
 
   "//COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it": "",

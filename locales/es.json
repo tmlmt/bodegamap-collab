@@ -170,7 +170,11 @@
     "emailVerified": "Email verificado",
     "newKeySent": "Nueva clave enviada",
     "recoveryEmailSent": "Email de recuperación enviado",
-    "passwordChanged": "Contraseña cambiada"
+    "passwordChanged": "Contraseña cambiada",
+    "successfullySignedIn": "Iniciado sesión",
+    "successfullySignedOut": "Cerrado sesión",
+    "welcomeBack": "¡Bienvenido de nuevo, {firstName}!",
+    "seeYouSoon": "Nos vemos pronto !"
   },
 
   "//COMMENT: MANUAL TRANSLATION REQUIRED -- SEO metadata": "",
