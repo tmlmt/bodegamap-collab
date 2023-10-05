@@ -96,7 +96,9 @@
   "RecaptchaNote": "Esta website está protegida por reCAPTCHA, y se aplica la política y términos de privacidad de Google {privacy} {terms}",
   "Recover your password": "Recupera tu contraseña",
   "Regenerate": "Regenerar",
+  "regenerate": "regenere",
   "Register": "Registrarse",
+  "register here": "registrate aqui",
   "Requirements": "Requisitos",
   "Save": "Guardar",
   "Send us some feedback": "Esperamos escuchar de ti. Deja un mensaje aquí y los responderemos lo antes posible :)) Hablamos Danés 🇩🇰, Francés 🇫🇷, Inglés 🇺🇸 y Japonés 🇯🇵.",
@@ -130,6 +132,7 @@
   "This is a community project": "Esto es un proyecto comunitario",
   "Top 10 visited": "Top 10 en visitas",
   "Unknown": "Desconocido",
+  "Use another account": "Usar otro cuenta",
   "User": "Usuario",
   "Visited": "Visitado",
   "Wiki": "Wiki",
@@ -149,7 +152,7 @@
     "couldNotLoadData": "La información no pudo cargarse",
     "notFilledIn": "Incompleto",
     "emailNotValid": "Email no válido",
-    "emailNotVerified": "Email no verificado",
+    "emailNotVerified": "Email no verificado. Revisa tu bandeja de entrada o {link} un clave de verificación.",
     "passwordNotStrongEnough": "Contraseña no segura",
     "passwordNotSame": "La contraseña no es la misma",
     "notLoggedIn": "No has iniciado sesión",
@@ -158,11 +161,12 @@
     "keyExpired": "Clave caducada",
     "noKey": "No clave",
     "wrongKey": "Clave incorrecta",
-    "wrongRecoveryKey": "Clave recuperada incorrecta",
+    "wrongRecoveryKey": "Clave de recuperación incorrecta",
     "alreadyVerified": "Verificado",
     "recoveryLinkExpired": "Recuperar link caducado",
     "unauthenticated": "No autenticado",
-    "unknown": "Desconocido"
+    "unknown": "Desconocido",
+    "userNotFound": "No pudimos encontrar ningún usuario asociado con este email. Pruebe con otro o {link}."
   },
 
   "success": {

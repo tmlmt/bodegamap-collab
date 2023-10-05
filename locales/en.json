@@ -91,7 +91,9 @@
   "RecaptchaNote": "This site is protected by reCAPTCHA and the Google {privacy} and {terms} apply",
   "Recover your password": "Recover your password",
   "Regenerate": "Regenerate",
+  "regenerate": "regenerate",
   "Register": "Register",
+  "register here": "register here",
   "Requirements": "Requirements",
   "Roadmap and Collaboration": "Roadmap and Collaboration",
   "RoadmapText": "The @:BodegaMap is not done yet, as many ideas are still in our heads. They will be implemented as time allows in our spare time. And we'd love your help !",
@@ -130,6 +132,7 @@
   "This is a community project": "This is a community project by {authors}",
   "Top 10 visited": "Top 10 visited",
   "Unknown": "Unknown",
+  "Use another account": "Use another account",
   "User": "User",
   "Visited": "Visited",
   "Wiki": "Wiki",
@@ -144,7 +147,7 @@
     "couldNotLoadData": "Could not load data",
     "notFilledIn": "Please fill in the form",
     "emailNotValid": "E-mail not valid",
-    "emailNotVerified": "Your account is not verified. Please verify your email first",
+    "emailNotVerified": "Your account is not verified. Check your inbox or {link} a verification link.",
     "passwordNotStrongEnough": "Your password is not strong enough",
     "passwordNotSame": "The passwords you've entered are not the same",
     "notLoggedIn": "You need to be logged in to access this page",
@@ -157,7 +160,8 @@
     "alreadyVerified": "Your e-mail address is already verified",
     "recoveryLinkExpired": "Recovery link expired. Please restart the password recovery process",
     "unauthenticated": "Unauthenticated. Please log in first",
-    "unknown": "Unknown error"
+    "unknown": "Unknown error",
+    "userNotFound": "We couldn't find any user associated with this email address. Try with another one, or {link}."
   },
 
   "Success": "Success",

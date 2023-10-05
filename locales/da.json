@@ -96,7 +96,9 @@
   "RecaptchaNote": "Dette websted er beskyttet af reCAPTCHA, og Googles {privacy} og {terms} gælder",
   "Recover your password": "Gendan din adgangskode",
   "Regenerate": "Genopret",
+  "regenerate": "genopret",
   "Register": "Oprette konto",
+  "register here": "opret en ny konto her",
   "Requirements": "Krav",
   "Save": "Gem",
   "Send us some feedback": "Vi glæder os, at høre fra dig. Læg en besked her og vi besvarer hurtigst muligt :)) Vi taler Dansk 🇩🇰, Fransk 🇫🇷, Engelsk 🇺🇸 og Japansk 🇯🇵.",
@@ -130,6 +132,7 @@
   "This is a community project": "Dette er et fælleskabssprojekt af {authors}",
   "Top 10 visited": "Top 10 besøgt",
   "Unknown": "Ukendt",
+  "Use another account": "Brug en anden konto",
   "User": "Bruger",
   "Visited": "Besøgt",
   "Wiki": "Wiki",
@@ -144,7 +147,7 @@
     "couldNotLoadData": "Kunne ikke indlæse data",
     "notFilledIn": "Udfyld venligst formularen",
     "emailNotValid": "Email ikke gyldig",
-    "emailNotVerified": "Din konto er ikke verificeret. Bekræft din email først",
+    "emailNotVerified": "Din email er ikke bekræftet. Tjek din indbakke eller {link} en bekræftelsesnøgle.",
     "passwordNotStrongEnough": "Din adgangskode er ikke stærk nok",
     "passwordNotSame": "Du har indtast to forskellige adgangskoder",
     "notLoggedIn": "Du må være logget ind for at få adgang til denne side",
@@ -157,7 +160,8 @@
     "alreadyVerified": "Din email er allerede bekræftet",
     "recoveryLinkExpired": "Gendannelsesnøglen udløbede. Genstart gendannelsesprocessen",
     "unauthenticated": "Ikke logget ind. Log ind først",
-    "unknown": "Der er sket en fejl"
+    "unknown": "Der er sket en fejl",
+    "userNotFound": "Der kunne ikke findes en bruger knyttet til denne e-mail. Prøve en anden eller {link}."
   },
 
   "success": {
