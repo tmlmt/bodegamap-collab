@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-09-27"
+      content: "2023-10-05"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -30,6 +30,23 @@ The plans might change over time, but the focus in the coming period will revolv
 - Star ranking of bodegas (for registered users)
 - Ability to main and share lists of places (for registered users)
 - Bug fixes and maybe some feature requests listed in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
+
+## Changelog (user-facing changes)
+
+### v1.27.0
+
+### 🚀 Enhancements
+
+- Unified login, verification and registration flow
+- Show spinning wheel when login and register forms are submitted
+
+### 🔥 Performance
+
+- Lazy loading of locales
+
+### 🩹 Fixes
+
+- **login:** Localize links
 
 ### v1.26.2
 
