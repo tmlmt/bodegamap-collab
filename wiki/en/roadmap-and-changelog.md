@@ -31,6 +31,12 @@ The plans might change over time, but the focus in the coming period will revolv
 - Ability to main and share lists of places (for registered users)
 - Bug fixes and maybe some feature requests listed in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
+### v1.26.2
+
+#### 🩹 Fixes
+
+- Minor fix in admin section
+
 ### v1.26.1
 
 #### 🩹 Fixes
