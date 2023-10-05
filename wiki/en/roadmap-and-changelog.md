@@ -31,6 +31,14 @@ The plans might change over time, but the focus in the coming period will revolv
 - Ability to main and share lists of places (for registered users)
 - Bug fixes and maybe some feature requests listed in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
+### v1.26.1
+
+#### 🩹 Fixes
+
+- Bottom panel not showing all properties when opened first time
+- Menu dropdown stays below sidebar
+- Do not redraw map twice after applying filters
+
 ### v1.26.0
 
 #### 🚀 Enhancements
