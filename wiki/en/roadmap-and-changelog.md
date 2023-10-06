@@ -33,6 +33,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.27.1
+
+### 🩹 Fixes
+
+- Filters not working sometimes
+
 ### v1.27.0
 
 ### 🚀 Enhancements
