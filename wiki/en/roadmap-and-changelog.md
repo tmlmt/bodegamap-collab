@@ -33,6 +33,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.28.1
+
+#### 🔁 Revert
+
+- Do not lazy load locales (cf [v1.27.0](v1.27.0)) as the feature is buggy in the i18n module
+
 ### v1.28.0
 
 #### 🚀 Enhancements
