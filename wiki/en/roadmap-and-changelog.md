@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-10-05"
+      content: "2023-10-16"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -33,24 +33,39 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.28.0
+
+#### 🚀 Enhancements
+
+- **bottomPanel:** Smoother resizing of table
+
+#### 🔥 Performance
+
+- **RightSidebar:** Generate image thumbnails on the fly
+
+#### 🩹 Fixes
+
+- **en:** Typo in `Hide List`
+- **RightSidebar:** Portrait images not automatically rotated
+
 ### v1.27.1
 
-### 🩹 Fixes
+#### 🩹 Fixes
 
 - Filters not working sometimes
 
 ### v1.27.0
 
-### 🚀 Enhancements
+#### 🚀 Enhancements
 
 - Unified login, verification and registration flow
 - Show spinning wheel when login and register forms are submitted
 
-### 🔥 Performance
+#### 🔥 Performance
 
 - Lazy loading of locales
 
-### 🩹 Fixes
+#### 🩹 Fixes
 
 - **login:** Localize links
 
