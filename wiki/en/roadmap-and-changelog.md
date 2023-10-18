@@ -33,6 +33,16 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.30.0
+
+#### 🚀 Enhancements
+
+- Each bodega is now identified by a unique 8-character hash, which enables more controlled direct links, and SEO optimisation.
+
+#### 🩹 Fixes
+
+- Weird behaviour of the Menubar layout when loading the page
+
 ### v1.29.0
 
 #### 🚀 Enhancements
