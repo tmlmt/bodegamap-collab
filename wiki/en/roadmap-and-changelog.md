@@ -33,6 +33,13 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.29.0
+
+#### 🚀 Enhancements
+
+- **reCAPTCHA:** Use recaptcha.net domain to avoid google.com cookies
+- Direct link to bodega
+
 ### v1.28.1
 
 #### 🔁 Revert
