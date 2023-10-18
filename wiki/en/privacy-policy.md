@@ -8,7 +8,7 @@ head:
     - property: "article:author"
       content: "https://github.com/tmlmt"
     - property: "article:published_time"
-      content: "2023-04-21"
+      content: "2023-10-18"
     - property: "article:section"
       content: "Legal"
 ---
@@ -90,7 +90,7 @@ We use both Session and Persistent Cookies for the purposes set out below:
 
   Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
 
-- **Functionality Cookies**
+- **Preference Cookies**
 
   Type: Persistent Cookies
 
