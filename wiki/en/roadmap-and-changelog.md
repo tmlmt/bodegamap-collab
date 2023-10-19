@@ -307,6 +307,140 @@ The plans might change over time, but the focus in the coming period will revolv
 
 - Various bug fixes
 
-### v1.16.0 and older
+### v1.16.0
 
-See [Releases](https://github.com/tmlmt/bodegamap-collab/discussions/categories/announcements?discussions_q=is%3Aopen+category%3AAnnouncements+sort%3Adate_created)
+- **feat**: show temporarily and permanently closed bodegas
+- **feat(locale)**: add Spanish locale
+
+### v1.15.0
+
+- **perf**: progressive loading of metadata. 75% reduction of metadata payload at start
+- **feat**: allow smaller zoom (down to 5)
+
+### v1.14.0
+
+- feat(seo): major improvements in SEO
+- feat(stats): show stats in percentages
+- feat(Lighthouse): add explicit width to logo
+- perf: install ReCaptcha only once
+- fix(images): image size in fullscreen and other fixes
+
+### v1.13.1
+
+- **Add** (non-feature): Umami analytics
+- Improve: replace About by Wiki
+- Improve (wiki): clarify way to suggest ideas
+- _Fix_: WikiSidebar width
+- _Fix_ (wiki): css for code
+
+### v1.13.0
+
+- **Add**: Wiki section
+- **Add**: call for collaboration in RightSidebar
+- Improve: show image navigators only if more than 1 image
+- \_Fix: various fixes for images
+
+### v1.12.0
+
+- **Add**: Direct link to custom center and zoom level + continuous update of URL in address bar to be able to quickly copy-paste
+- _Fix_: visibility of name search field in Menubar
+
+### v1.11.0
+
+- **Add**: statistics page
+
+### v1.10.1
+
+- Improve: don't hide menubar with sidepanels
+- Improve: load reCaptcha on contact page only
+- _Fix_: locales
+
+### v1.10.0
+
+- **Add**: link to Google Maps directions on click to address
+- **Add**: games (billard, table football, darts)
+- Improve: only show characteristics that are set (no maybes)
+- Improve: allow one more zoom level down
+- _Fix_: title link color
+- _Fix_: labels for visited checkbox in FilterSidebar
+- _Fix_: various locales typos
+- _Fix_: email verification flow error handling
+- _Fix_: registration success message
+- _Fix_: allow +, æ, ø, å in email addresses (closes tmlmt/bodegamap-collab#17)
+
+### v1.9.0
+
+- Improve: openingHours- show all days of week and write "closed" explicitely on closed days
+- Improve: menu now says either "show list" or "hide list", and not always the first one
+- _Fix_ (MAJOR): do not prevent visitors from registering (it was showing "you need to be logged in")
+- _Fix_: hide bottom panel when navigating out of map
+- _Fix_: translate bottom panel
+- _Fix_: translate short days (e.g. Mon -> Man, Sat -> Lør)
+
+### v1.8.0
+
+- Enhance: new About page with link to collab repo
+- _Fix_: ensure DataTable is updated when a bodega is modified
+- _Fix_: hide visited filter if not logged in
+
+### v1.7.1
+
+- Improve: resizeability of DataTable
+- _Fix_ (major): fetch of visited bodegas
+- _Fix_: visited flag alignment for long bodega names
+- _Fix_: callbackUrl for login step of registration
+- _Fix_: typo in registration mail
+
+### v1.7.0
+
+- **Add**: user registration and email verification flows
+- **Add**: password change and recovery flows
+- **Add**: possibility to tag visited bodegas, and filter visited bodegas
+- Improve: move login errors messages to toast
+- Improve: show bodega name directly has an h2 title
+- _Fix_: autofill not working
+
+### v1.6.0
+
+- Improved: turned title into link to home page
+- _Fix_: Various details in About page
+- _Fix_: Make page title reactive
+
+### v1.5.0
+
+- **Add**: minzoom and maxbounds
+
+### v1.4.0
+
+- Improved: About page
+- Enhanced: reset list of bodegas with those in the Stamsted book and a couple of extras
+
+### v1.3.0
+
+- _Fix_: Restore reset markers on click outside layer
+- _Fix_: Fix RightSidebar self-closing when clicking in it
+- _Fix_: multiple other issues
+
+### v1.2.2
+
+- _Edit_: switch domain to bodegamap.com
+- _Edit_: switch geoLocate to tracking mode
+- _Fix_: geoLocate trigger on load (desktop)
+- _Fix_: locale en.json, locale setting and cookie use
+- _Fix_: removed unused variable in header
+
+### v1.2.1
+
+- Localize metadata
+
+### v1.2.0
+
+- Add: donation link
+
+### v1.1.0
+
+- Fix and improvements on the Contact Page
+
+### v1.0.0
+
+Minimum Viable Product 🎉🎉🎉
