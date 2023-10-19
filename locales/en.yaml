@@ -218,7 +218,6 @@ admin:
   Users: Users
 
 meta:
-  _PageTitle: "Bodega Map | {title}"
   index:
     title: Home
     description: Discover Denmark's traditional pubs on an interactive map and find the ones closest to you !
