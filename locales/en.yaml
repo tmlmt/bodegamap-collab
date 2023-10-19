@@ -6,7 +6,6 @@ Address: Address
 And: And
 Article available soon: Article available soon
 Authors: Authors
-BodegaMap: Bodega Map
 BuyMeATuborg: "If you enjoyed this map and would like to show your support, buy us a beer"
 Characteristics: Characteristics
 City: City
@@ -103,7 +102,7 @@ Register: Register
 register here: register here
 Requirements: Requirements
 Roadmap and Collaboration: Roadmap and Collaboration
-RoadmapText: The @:BodegaMap is not done yet, as many ideas are still in our heads. They will be implemented as time allows in our spare time. And we'd love your help!
+RoadmapText: The Bodega Map is not done yet, as many ideas are still in our heads. They will be implemented as time allows in our spare time. And we'd love your help!
 CollaborationText: "We have put in place a {link} on Github, where you can join and contribute. It essentially contains two sections:"
 CollaborationItem1: an {link} section, where you can report bugs or see which bugs or features are in the backlog
 CollaborationItem2: >-
@@ -219,22 +218,22 @@ admin:
   Users: Users
 
 meta:
-  _PageTitle: "@:BodegaMap | {title}"
+  _PageTitle: "Bodega Map | {title}"
   index:
     title: Home
     description: Discover Denmark's traditional pubs on an interactive map and find the ones closest to you !
   about:
     title: About
-    description: "A few words about the creators of the @:BodegaMap and the motivations behind it."
+    description: "A few words about the creators of the Bodega Map and the motivations behind it."
   stats:
     title: Statistics
     description: "The Bodega database in numbers: percentage coverage of Denmark, number with specific characteristics, etc."
   contact:
     title: Contact
-    description: "Fill in this contact form and send some us some feedback. We'd love to hear what you think of @:BodegaMap"
+    description: "Fill in this contact form and send some us some feedback. We'd love to hear what you think of Bodega Map"
   login:
     title: Login
-    description: "Log-in to the @:BodegaMap and get access to member-only features."
+    description: "Log-in to the Bodega Map and get access to member-only features."
   account:
     title: My Account
     description: See and edit your account's details for the Bodega Map

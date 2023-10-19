@@ -6,7 +6,6 @@ Address: Adresse
 And: Og
 Article available soon: Artikel snart tilgængelig
 Authors: Forfattere
-BodegaMap: Bodega Map
 BuyMeATuborg: "Hvis du nød dette kort og du gerne vil vise din støtte, køb os en øl"
 Characteristics: Egenskaber
 City: By
@@ -84,7 +83,7 @@ Pick a password: Vælg en adgangskode
 Repository: Repositori
 Roadmap and Collaboration: Roadmap og Samarbejde
 RoadmapText: >-
-  @:BodegaMap er ikke færdiggjort, for vi stadig har mange ideer i hovedet. De vil blive implementeret efterhånden som tiden tillader det i vores fritid. Og
+  Bodega Map er ikke færdiggjort, for vi stadig har mange ideer i hovedet. De vil blive implementeret efterhånden som tiden tillader det i vores fritid. Og
   vi vil meget gerne høre fra dig om det !
 CollaborationText: "Vi har sat et {link} på plads på Github hvor du kan komme med og bidrage. Det består af to nøgleområder:"
 CollaborationItem1: et {link} område, hvor du kan rapportere fejl eller se hvilke fejl eller funktioner der er i backlog lige nu
@@ -223,19 +222,19 @@ meta:
     description: Opdag værtshuse i hele Danmark på et interaktivt kort og find det, der er tættest på !
   about:
     title: Om
-    description: "Et par ord om skaberne af @:BodegaMap og motivationen bag."
+    description: "Et par ord om skaberne af Bodega Map og motivationen bag."
   stats:
     title: Statistikker
     description: "Bodega databasen i tal: procent dækning af Danmark, antal med bestemte egenskaber, osv."
   contact:
     title: Kontakt
-    description: Udfyld denne kontaktformular og send os noget feedback. Vi glæder os til at høre fra dig og hvad du tænker om @:BodegaMap
+    description: Udfyld denne kontaktformular og send os noget feedback. Vi glæder os til at høre fra dig og hvad du tænker om Bodega Map
   login:
     title: Log ind
-    description: "Log ind på @:BodegaMap og få adgang til eksklusive medlemsfunktioner."
+    description: "Log ind på Bodega Map og få adgang til eksklusive medlemsfunktioner."
   account:
     title: Min Konto
-    description: "Se og rediger din @:BodegaMap kontos detaljer"
+    description: "Se og rediger din Bodega Map kontos detaljer"
   register:
     title: Oprette konto
     description: Create an account and enjoy the user-only features of the Bodega Map

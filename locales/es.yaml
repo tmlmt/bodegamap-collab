@@ -6,7 +6,6 @@ Address: Dirección
 And: "Y"
 Article available soon: Articulo pronto disponible
 Authors: Autores
-BodegaMap: Bodega Map
 BuyMeATuborg: Cómprame una Tuborg
 Characteristics: Caracterícticas
 City: Ciudad
@@ -84,7 +83,7 @@ Pick a password: Selecciona una contraseña
 Repository: Repositorio
 Roadmap and Collaboration: Mapa de ruta y colaboración
 RoadmapText: >-
-  @:BodegaMap no está terminado porque todavía tenemos muchas ideas en la
+  Bodega Map no está terminado porque todavía tenemos muchas ideas en la
   cabeza. Se implementarán según el tiempo lo permita en nuestro tiempo libre.
   ¡Nos encantaría saber de ti al respecto!
 CollaborationText: >-
@@ -200,19 +199,19 @@ meta:
     description: Descubre los pubs de Dinamarca en un mapa interactivo y encuentra el más cercano!
   about:
     title: Acerca de
-    description: "Algunas palabras sobre los creadores de @:BodegaMap y la motivación detrás del proyecto."
+    description: "Algunas palabras sobre los creadores de Bodega Map y la motivación detrás del proyecto."
   stats:
     title: Estadísticas
     description: "La base de datos de Bodega en números: porcentaje de cobertura de Dinamarca, número con características específicas, etc."
   contact:
     title: Contacto
-    description: "Complete este formulario de contacto y envíenos sus comentarios. Esperamos saber de ti y lo que piensas de @:BodegaMap"
+    description: "Complete este formulario de contacto y envíenos sus comentarios. Esperamos saber de ti y lo que piensas de Bodega Map"
   login:
     title: Inicia sesión
-    description: "Inicia sesión en @:BodegaMap y acceda a funciones exclusivas para miembros."
+    description: "Inicia sesión en Bodega Map y acceda a funciones exclusivas para miembros."
   account:
     title: Mi cuenta
-    description: "Ver y editar los detalles de tu cuenta @:BodegaMap"
+    description: "Ver y editar los detalles de tu cuenta Bodega Map"
   register:
     title: Crear una cuenta
     description: Crea una cuenta y disfruta de las funciones de Bodega Map exclusivas para los usuarios
