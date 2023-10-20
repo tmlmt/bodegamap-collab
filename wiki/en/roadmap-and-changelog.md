@@ -33,6 +33,18 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.31.0
+
+#### 🚀 Enhancements
+
+- **wiki:** Update and add pictures to presentation page ([61bf737](https://github.com/tmlmt/bodegamapvue/commit/61bf737))
+
+#### 🩹 Fixes
+
+- Top margin of direct link icon
+- **seo:** Title and description of bodega og:
+- **wiki:** add changelog of v1.16.0 and older
+
 ### v1.30.0
 
 #### 🚀 Enhancements
