@@ -21,28 +21,51 @@ Bodega Map is an interactive map listing Denmark's traditional pubs with additio
 
 ### For all visitors
 
-- Basic information about a specific bodega by clicking on it:
-  - Address
-  - Pictures
-  - Characteristics
-    - Whether smoking is allowed
-    - Presence of a billiards table
-    - Presence of a darts board
-    - Presence of a table football table
-- Opening hours
-  - Per day of week
-  - Indication of whether a bodega is currently open or when it opens next
-- Filtering:
-  - Search field at the top of the page for filtering based on name
-  - Filter sidebar for:
-    - Showing only bodegas open now
-    - Presence of certain games (billiards, darts, table football)
-- Link to Google Maps when clicking on the address (to then get directions for instance)
+![Basic information](/images/wiki/feature-rightsidebar.png){class='border-1 border-300'}
+
+Clicking on a Bodega opens a sidebar with details about the place:
+
+- Clicking on the []{class='pi pi-link'} link icon next to the address copies the direct link to it in the clipboard
+  (useful to share the link to someone)
+- Clicking on the address copies the link to the place on Google Maps to the clipboard (useful when you're on
+  your phone and want to quickly get directions)
+- Full list of possible characteristics:
+  - Whether smoking is allowed
+  - Whether there's live music events
+  - Whether it's showing sport on TV
+  - Presence of a billiards table
+  - Presence of a darts board
+  - Presence of a table football table
+  - Possibility for outdoor seating
+
+![Filter Sidebar](/images/wiki/feature-filters.png){class='border-1 border-300'}
+
+Clicking on the []{class='pi pi-filter-fill'} filter icon on the upper left corner opens up a filter sidebar
+
+- Clicking on the []{class='pi pi-share-alt'} icon right next to "Filter" copies to the clipboard the direct link to
+  the current position on the map with the current set of filters selected
+
+![Menubar](/images/wiki/feature-menubar.png){class='border-1 border-300'}
+
+The menubar at the top enables you to:
+
+- Access the Wiki pages
+- See some statistics about Bodegas listed
+- Contact me
+- Change language
+- Login and Register
 
 ### For (free) registered users only
 
-- Possibility to indicate bodegas one has visited
-  - Corresponding additional filter in the filter sidebar
+![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300'}
+
+- Keep track of the Bodegas you've visited: check or uncheck the flag once you've clicked on the bodega you're visited
+
+![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300'}
+
+- Special filters
+  - Show only bodegas you have visited or those you haven't
+  - Show bodegas that are temporarily or permanently closed
 
 ## Disclaimer
 

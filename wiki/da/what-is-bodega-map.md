@@ -19,30 +19,51 @@ Bodega Map er et interaktivt kort som viser Danmarks værsthus med øvrige funkt
 
 ## Funktionaliteter
 
-### For alle besøger
+![Basic information](/images/wiki/feature-rightsidebar.png){class='border-1 border-300'}
 
-- Grunlæggende information om en specifik bodega ved at klikke på den:
-  - Adresse
-  - Billeder
-  - Egenskaber
-    - Om der må ryges
-    - Tilstedeværelse af et billardbord
-    - Tilstedeværelse af en dartskive
-    - Tilstedeværelse af et bordfolboldbord
-- Åbningstider
-  - pr. ugedag
-  - Angivelse af, om en bodega i øjeblikket er åben, eller hvornår den åbner næste gang
-- Filtrering:
-  - Søgefelt øverst på siden for filtrering baseret på navn
-  - Filtrer sidebjælke over:
-    - At vise kun bodegaer åbne nu
-    - Tilstedeværelse af visse spil (billard, dart, bordfodbold)
-- Link til Google Maps, når man klikker på adressen (for derefter at få rutevejledning for eksempel)
+Ved at klikke på en Bodega åbnes en sidebjælke med detaljer om stedet:
 
-### Kun for (gratis) registrerede brugere
+- Ved at klikke på []{class='pi pi-link'} linkikonet ved siden af adressen kopieres til udklipsholderendet det direkte link
+  til den (nyttigt, når du vil dele linket med nogen)
+- Ved at klikke på adressen kopieres til udklipsholderen linket til stedet på Google Maps (nyttigt, når du er på
+  din telefon og ønsker hurtigt at få rutevejledning)
+- Fuld liste over mulige egenskaber:
+  - Om rygning er tilladt
+  - Om der er live musikbegivenheder
+  - Om det er at vise sport på tv
+  - Tilstedeværelse af et billardbord
+  - Tilstedeværelse af en dartskive
+  - Tilstedeværelse af et bordfodboldbord
+  - Mulighed for udendørs siddepladser
 
-- Mulighed for at angive bodegaer man har besøgt
-  - Tilsvarende ekstra filter i filtersidebjælken
+![Filter Sidebar](/images/wiki/feature-filters.png){class='border-1 border-300'}
+
+Clicking on the []{class='pi pi-filter-fill'} filter icon on the upper left corner opens up a filter sidebar
+
+- Ved at klikke på []{class='pi-share-alt'}-ikonet lige ved siden af "Filter" kopieres til udklipsholderen
+  det direkte link til den aktuelle position på kortet med det aktuelle valgt filtre
+
+![Menubar](/images/wiki/feature-menubar.png){class='border-1 border-300'}
+
+Menulinjen øverst giver dig mulighed for at:
+
+- Få adgang til Wiki-siderne
+- Se nogle statistikker om Bodegas i databasen
+- Kontakt mig
+- Skift sprog
+- Log ind og tilmeld dig
+
+### For (free) registered users only
+
+![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300'}
+
+- Hold styr på de bodegaer, du har besøgt: marker eller fjern markeringen af flaget, når du har klikket på den bodega, du har besøgt
+
+![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300'}
+
+- Specielle filtre
+  - Vis kun bodegaer, du har besøgt eller dem, du ikke har
+  - Vis bodegaer, der er midlertidigt eller permanent lukket
 
 ## Ansvarsfraskrivelse
 
