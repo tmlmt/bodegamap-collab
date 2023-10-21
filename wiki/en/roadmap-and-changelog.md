@@ -33,11 +33,17 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.31.1
+
+#### 🩹 Fixes
+
+- **wiki:** Image sizes
+
 ### v1.31.0
 
 #### 🚀 Enhancements
 
-- **wiki:** Update and add pictures to presentation page ([61bf737](https://github.com/tmlmt/bodegamapvue/commit/61bf737))
+- **wiki:** Update and add pictures to presentation page
 
 #### 🩹 Fixes
 
