@@ -21,7 +21,7 @@ Bodega Map is an interactive map listing Denmark's traditional pubs with additio
 
 ### For all visitors
 
-![Basic information](/images/wiki/feature-rightsidebar.png){class='border-1 border-300'}
+![Basic information](/images/wiki/feature-rightsidebar.png){class='border-1 border-300' sizes='85vw sm:508px'}
 
 Clicking on a Bodega opens a sidebar with details about the place:
 
@@ -38,14 +38,14 @@ Clicking on a Bodega opens a sidebar with details about the place:
   - Presence of a table football table
   - Possibility for outdoor seating
 
-![Filter Sidebar](/images/wiki/feature-filters.png){class='border-1 border-300'}
+![Filter Sidebar](/images/wiki/feature-filters.png){class='border-1 border-300' sizes='85vw sm:508px'}
 
 Clicking on the []{class='pi pi-filter-fill'} filter icon on the upper left corner opens up a filter sidebar
 
 - Clicking on the []{class='pi pi-share-alt'} icon right next to "Filter" copies to the clipboard the direct link to
   the current position on the map with the current set of filters selected
 
-![Menubar](/images/wiki/feature-menubar.png){class='border-1 border-300'}
+![Menubar](/images/wiki/feature-menubar.png){class='border-1 border-300' sizes='85vw sm:463px'}
 
 The menubar at the top enables you to:
 
@@ -57,11 +57,11 @@ The menubar at the top enables you to:
 
 ### For (free) registered users only
 
-![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300'}
+![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
 - Keep track of the Bodegas you've visited: check or uncheck the flag once you've clicked on the bodega you're visited
 
-![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300'}
+![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
 - Special filters
   - Show only bodegas you have visited or those you haven't

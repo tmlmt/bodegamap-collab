@@ -19,7 +19,7 @@ Bodega Map er et interaktivt kort som viser Danmarks værsthus med øvrige funkt
 
 ## Funktionaliteter
 
-![Basic information](/images/wiki/feature-rightsidebar.png){class='border-1 border-300'}
+![Basic information](/images/wiki/feature-rightsidebar.png){class='border-1 border-300' sizes='85vw sm:508px'}
 
 Ved at klikke på en Bodega åbnes en sidebjælke med detaljer om stedet:
 
@@ -36,14 +36,14 @@ Ved at klikke på en Bodega åbnes en sidebjælke med detaljer om stedet:
   - Tilstedeværelse af et bordfodboldbord
   - Mulighed for udendørs siddepladser
 
-![Filter Sidebar](/images/wiki/feature-filters.png){class='border-1 border-300'}
+![Filter Sidebar](/images/wiki/feature-filters.png){class='border-1 border-300' sizes='85vw sm:508px'}
 
 Clicking on the []{class='pi pi-filter-fill'} filter icon on the upper left corner opens up a filter sidebar
 
 - Ved at klikke på []{class='pi-share-alt'}-ikonet lige ved siden af "Filter" kopieres til udklipsholderen
   det direkte link til den aktuelle position på kortet med det aktuelle valgt filtre
 
-![Menubar](/images/wiki/feature-menubar.png){class='border-1 border-300'}
+![Menubar](/images/wiki/feature-menubar.png){class='border-1 border-300' sizes='85vw sm:463px'}
 
 Menulinjen øverst giver dig mulighed for at:
 
@@ -55,11 +55,11 @@ Menulinjen øverst giver dig mulighed for at:
 
 ### For (free) registered users only
 
-![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300'}
+![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
 - Hold styr på de bodegaer, du har besøgt: marker eller fjern markeringen af flaget, når du har klikket på den bodega, du har besøgt
 
-![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300'}
+![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
 - Specielle filtre
   - Vis kun bodegaer, du har besøgt eller dem, du ikke har
