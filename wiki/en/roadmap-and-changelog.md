@@ -33,6 +33,21 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v1.32.0
+
+#### 🚀 Enhancements
+
+- **login:** Press Enter to submit form
+
+#### 🔥 Performance
+
+- **css:** Use minimized css for UI components
+
+#### 🩹 Fixes
+
+- **RightSidebar:** Top margin of visited flag
+- **seo:** Homepage head and default bodega og:image
+
 ### v1.31.1
 
 #### 🩹 Fixes
