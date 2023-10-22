@@ -141,6 +141,7 @@ Status: Estado
 Street: Calle
 Strong: Fuerte
 Submit: Enviar
+Suggest an edit: Sugerir un cambio
 Support: Ayuda
 TBD: Por determinar
 Terms of Service: Términos de Servicio
@@ -154,6 +155,7 @@ Wiki: Wiki
 Would like to help update this info?: Te gustaría ayudar con la actualización de esta información?
 "Yes": Si
 You are logged in as: "Has iniciado sesión como: {nombre}"
+You need to be signed in to suggest an edit: "Debes iniciar sesión para poder sugerir cambios: {signin} o {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all errors messages
 

@@ -133,6 +133,7 @@ Status: Status
 Street: Gade
 Strong: Stærk
 Submit: Indsend
+Suggest an edit: Foreslå en ændring
 Support: Støtte
 TBD: TBD
 Terms of Service: Servicevilkår
@@ -146,6 +147,7 @@ Wiki: Wiki
 Would like to help update this info?: Vil du hjælpe med at opdatere denne info?
 "Yes": Ja
 You are logged in as: "Du er logget ind som: {name}"
+You need to be signed in to suggest an edit: "Du må være logget ind for at kunne foreslå ændringer: {signin} eller {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all errors messages
 

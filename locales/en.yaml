@@ -133,6 +133,7 @@ Status: Status
 Street: Street
 Strong: Strong
 Submit: Submit
+Suggest an edit: Suggest an edit
 Support: Support
 TBD: TBD
 Terms of Service: Terms of Service
@@ -146,6 +147,7 @@ Wiki: Wiki
 Would like to help update this info?: Would like to help update this info?
 "Yes": "Yes"
 You are logged in as: "You are logged in as: {name}"
+You need to be signed in to suggest an edit: "You need to be signed in to suggest an edit: {signin} or {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all error and success messages
 
