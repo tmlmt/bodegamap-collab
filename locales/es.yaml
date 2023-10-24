@@ -7,6 +7,7 @@ And: "Y"
 Article available soon: Articulo pronto disponible
 Authors: Autores
 BuyMeATuborg: Cómprame una Tuborg
+Cancel: Cancelar
 Characteristics: Caracterícticas
 City: Ciudad
 Closed: Cerrado
@@ -155,6 +156,7 @@ Wiki: Wiki
 Would like to help update this info?: Te gustaría ayudar con la actualización de esta información?
 "Yes": Si
 You are logged in as: "Has iniciado sesión como: {nombre}"
+You have entered suggestion mode: Has entrado en modo sugerencia. Cuando has terminado, clic en el botón "Enviar" en la parte inferior de esta barra lateral.
 You need to be signed in to suggest an edit: "Debes iniciar sesión para poder sugerir cambios: {signin} o {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all errors messages

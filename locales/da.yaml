@@ -7,6 +7,7 @@ And: Og
 Article available soon: Artikel snart tilgængelig
 Authors: Forfattere
 BuyMeATuborg: "Hvis du nød dette kort og du gerne vil vise din støtte, køb os en øl"
+Cancel: Aflyse
 Characteristics: Egenskaber
 City: By
 Closed: Lukket
@@ -147,6 +148,7 @@ Wiki: Wiki
 Would like to help update this info?: Vil du hjælpe med at opdatere denne info?
 "Yes": Ja
 You are logged in as: "Du er logget ind som: {name}"
+You have entered suggestion mode: Du er nu i Forslagstilstand. Når du er færdig, trykke på "Indsend"-knappen nederst i denne sidebjælke.
 You need to be signed in to suggest an edit: "Du må være logget ind for at kunne foreslå ændringer: {signin} eller {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all errors messages
@@ -191,7 +193,6 @@ admin:
   AdminMode: Admin mode
   AreYouSureDelete: "Er du sikker på, at du vil slette {item}?"
   AreYouSureDeleteImage: "Er du sikker på, at du vil slette dette billede?"
-  Cancel: Aflyse
   CouldNotDelete: "Kunne ikke slette {item}"
   CouldNotDeleteImage: Kunne ikke slette billede
   days:

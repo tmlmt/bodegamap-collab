@@ -7,6 +7,7 @@ And: And
 Article available soon: Article available soon
 Authors: Authors
 BuyMeATuborg: "If you enjoyed this map and would like to show your support, buy us a beer"
+Cancel: Cancel
 Characteristics: Characteristics
 City: City
 Closed: Closed
@@ -147,6 +148,7 @@ Wiki: Wiki
 Would like to help update this info?: Would like to help update this info?
 "Yes": "Yes"
 You are logged in as: "You are logged in as: {name}"
+You have entered suggestion mode: You have entered Suggestion Mode. Once you are done, click on the "Submit" button at the bottom of this sidebar.
 You need to be signed in to suggest an edit: "You need to be signed in to suggest an edit: {signin} or {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all error and success messages
@@ -192,7 +194,6 @@ admin:
   AdminMode: Admin mode
   AreYouSureDelete: "Are you sure you want to delete {item}?"
   AreYouSureDeleteImage: Are you sure you want to delete this image?
-  Cancel: Cancel
   CouldNotDelete: "Could not delete {item}"
   CouldNotDeleteImage: Could not delete image
   days:
