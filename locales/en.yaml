@@ -156,6 +156,8 @@ You need to be signed in to suggest an edit: "You need to be signed in to sugges
 Error: Error
 error:
   couldNotLoadData: Could not load data
+  couldNotSubmitEditSuggestions: Could not submit edit suggestions
+  invalidPostcode: Please enter a valid postcode
   notFilledIn: Please fill in the form
   emailNotValid: E-mail not valid
   emailNotVerified: Your account is not verified. Check your inbox or {link} a verification link.
@@ -184,6 +186,7 @@ success:
   successfullySignedOut: Successfully signed out
   welcomeBack: "Welcome back, {firstName} !"
   seeYouSoon: See you soon !
+  editSuggestionsSent: Edit suggestions successfully sent for review
 
 # COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it
 

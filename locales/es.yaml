@@ -167,6 +167,8 @@ info:
 Error: Error
 error:
   couldNotLoadData: La información no pudo cargarse
+  couldNotSubmitEditSuggestions: Las sugerencias de cambios no pudieron enviarse
+  invalidPostcode: Ingrese un código postal válido por favor
   notFilledIn: Incompleto
   emailNotValid: Email no válido
   emailNotVerified: Email no verificado. Revisa tu bandeja de entrada o {link} un clave de verificación.
@@ -194,6 +196,7 @@ success:
   successfullySignedOut: Cerrado sesión
   welcomeBack: "¡Bienvenido de nuevo, {firstName}!"
   seeYouSoon: Nos vemos pronto !
+  editSuggestionsSent: Sugerencias de cambios enviadas correctamente para revisión
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- SEO metadata
 
