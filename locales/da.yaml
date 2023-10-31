@@ -62,6 +62,9 @@ Issues: Issues
 Last name: Efternavn
 Link copied to clipboard: Link kopieret til udklipsholder
 Loading...: Indlæser...
+Latitude: Breddegrad
+Location: Beliggenhed
+Longitude: Længdegrad
 Maybe: Måske
 Message: Besked
 My Account: Min Konto
@@ -217,9 +220,6 @@ admin:
   DragMarker: Træk markøren på kortet
   ImageSuccessfullyDeleted: Billede slettet
   InStamstedersList: I Stamsteders liste
-  Latitude: Breddegrad
-  Location: Beliggenhed
-  Longitude: Længdegrad
   PleaseEnterName: Husk at indtaste et navn
   Save: Gem
   StreetHelp: Indtast gadenavn og nummer

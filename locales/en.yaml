@@ -64,6 +64,9 @@ Issues: Issues
 Last name: Last name
 Link copied to clipboard: Link copied to clipboard
 Loading...: Loading...
+Latitude: Latitude
+Location: Coordinates
+Longitude: Longitude
 Maybe: Maybe
 Message: Message
 My Account: My Account
@@ -218,9 +221,6 @@ admin:
   DragMarker: Drag the marker on the map
   ImageSuccessfullyDeleted: Image successfully deleted
   InStamstedersList: In Stamsteder's list
-  Latitude: Latitude
-  Location: Coordinates
-  Longitude: Longitude
   PleaseEnterName: Please enter a name
   Save: Save
   StreetHelp: Enter street name and number
