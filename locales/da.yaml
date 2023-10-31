@@ -2,6 +2,8 @@
 
 About: Om
 Account: Konto
+Add: Tilføj
+Add Bodega: Tilføje Bodega
 Address: Adresse
 And: Og
 Article available soon: Artikel snart tilgængelig
@@ -142,6 +144,8 @@ There is an edit suggestion under review for this field: Der er et ændringsfors
 There are hidden edit suggestions under review: Der er skulte ændringsforslag under gennemgang til denne bodega
 This is a community project: "Dette er et fælleskabssprojekt af {authors}"
 Top 10 visited: Top 10 besøgt
+Under review: Under gennemgang
+This bodega is under review: Denne bodega er under gennemgang og vil kun være synlig for dig, indtil den er godkendt
 Unknown: Ukendt
 Use another account: Brug en anden konto
 User: Bruger
@@ -165,7 +169,7 @@ error:
   emailNotVerified: Din email er ikke bekræftet. Tjek din indbakke eller {link} en bekræftelsesnøgle.
   passwordNotStrongEnough: Din adgangskode er ikke stærk nok
   passwordNotSame: Du har indtast to forskellige adgangskoder
-  notLoggedIn: Du må være logget ind for at få adgang til denne side
+  notLoggedIn: Du må være logget ind for at få adgang til denne side eller bruge denne funktionalitet
   wrongCredentials: Forkert email eller adgangskode
   generateKey: Kunne ikke generere ny bekræftelsesnøgle
   keyExpired: Bekræftelsesnøglen er udløbet. Du kan generere en ny her.
@@ -193,9 +197,8 @@ success:
 
 admin:
   Admin: Admin
-  AddBodega: Tilføje Bodega
-  AddToDatabase: Føje til Database
   AdminMode: Admin mode
+  Approved: Approved
   AreYouSureDelete: "Er du sikker på, at du vil slette {item}?"
   AreYouSureDeleteImage: "Er du sikker på, at du vil slette dette billede?"
   CouldNotDelete: "Kunne ikke slette {item}"
@@ -221,6 +224,7 @@ admin:
   Save: Gem
   StreetHelp: Indtast gadenavn og nummer
   SuccessfullyDeleted: "Slettet {item}"
+  Suggestions: Suregencias
   to: til
   Users: Bruger
 

@@ -2,6 +2,8 @@
 
 About: About
 Account: Account
+Add: Add
+Add Bodega: Add Bodega
 Address: Address
 And: And
 Article available soon: Article available soon
@@ -142,6 +144,8 @@ There is an edit suggestion under review for this field: There is an edit sugges
 There are hidden edit suggestions under review: There are hidden edit suggestions under review for this bodega
 This is a community project: "This is a community project by {authors}"
 Top 10 visited: Top 10 visited
+Under review: Under review
+This bodega is under review: This bodega is under review and will only be visible to you until it's approved
 Unknown: Unknown
 Use another account: Use another account
 User: User
@@ -165,7 +169,7 @@ error:
   emailNotVerified: Your account is not verified. Check your inbox or {link} a verification link.
   passwordNotStrongEnough: Your password is not strong enough
   passwordNotSame: The passwords you've entered are not the same
-  notLoggedIn: You need to be logged in to access this page
+  notLoggedIn: You need to be logged in to access this page or use this feature
   wrongCredentials: Wrong email or password
   generateKey: Could not generate new key
   keyExpired: The verification key has expired. You can generate a new one here.
@@ -194,9 +198,8 @@ success:
 
 admin:
   Admin: Admin
-  AddBodega: Add Bodega
-  AddToDatabase: Add to Database
   AdminMode: Admin mode
+  Approved: Approved
   AreYouSureDelete: "Are you sure you want to delete {item}?"
   AreYouSureDeleteImage: Are you sure you want to delete this image?
   CouldNotDelete: "Could not delete {item}"
@@ -222,6 +225,7 @@ admin:
   Save: Save
   StreetHelp: Enter street name and number
   SuccessfullyDeleted: "Successfully deleted {item}"
+  Suggestions: Suggestions
   to: to
   Users: Users
 
