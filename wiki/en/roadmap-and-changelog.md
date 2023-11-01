@@ -31,6 +31,16 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.0.1
+
+#### 🔥 Performance
+
+- **Map:** Only fetch initial bodegas at first map load
+
+#### 🩹 Fixes
+
+- Load bodegas under review upon login
+
 ### v2.0.0 🎉🎉
 
 Two new major user functionalities and numerous adjustements under the hood signal the end of the launch version v1 and the start of a new development phase.
