@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-10-16"
+      content: "2023-11-01"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -23,15 +23,22 @@ We have more ideas than we have the time to develop, and you are more than welco
 
 The plans might change over time, but the focus in the coming period will revolve around:
 
-- Enabling to propose changes to bodega data, and propose the addition of new bodegas to the map (for registered users)
-- Improvements to images: adding a caption (for image credits) and fixing the orientation for portrait images
+- Adding a caption (for image credits)
 - Progressive loading of bodegas (performance)
-- Direct link to a specific bodega, and bodega-specific detail page
 - Star ranking of bodegas (for registered users)
 - Ability to main and share lists of places (for registered users)
-- Bug fixes and maybe some feature requests listed in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
+- Bug fixes and maybe some feature requests you have submitted in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
 ## Changelog (user-facing changes)
+
+### v2.0.0 🎉🎉
+
+Two new major user functionalities and numerous adjustements under the hood signal the end of the launch version v1 and the start of a new development phase.
+
+#### 🚀 Enhancements
+
+- User-added bodegas and user-submitted edit suggestions
+- **wiki:** Functionalities and collaboration pages updated for v2.0.0
 
 ### v1.32.0
 
