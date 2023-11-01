@@ -214,6 +214,7 @@ admin:
   AreYouSureDeleteImage: Are you sure you want to delete this image?
   CouldNotDelete: "Could not delete {item}"
   CouldNotDeleteImage: Could not delete image
+  CouldNotUpdateEntry: Could not update entry
   days:
     Monday: Monday
     Tuesday: Tueday
