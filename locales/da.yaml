@@ -2,11 +2,14 @@
 
 About: Om
 Account: Konto
+Add: Tilføj
+Add Bodega: Tilføje Bodega
 Address: Adresse
 And: Og
 Article available soon: Artikel snart tilgængelig
 Authors: Forfattere
 BuyMeATuborg: "Hvis du nød dette kort og du gerne vil vise din støtte, køb os en øl"
+Cancel: Aflyse
 Characteristics: Egenskaber
 City: By
 Closed: Lukket
@@ -59,6 +62,9 @@ Issues: Issues
 Last name: Efternavn
 Link copied to clipboard: Link kopieret til udklipsholder
 Loading...: Indlæser...
+Latitude: Breddegrad
+Location: Beliggenhed
+Longitude: Længdegrad
 Maybe: Måske
 Message: Besked
 My Account: Min Konto
@@ -133,11 +139,16 @@ Status: Status
 Street: Gade
 Strong: Stærk
 Submit: Indsend
+Suggest an edit: Foreslå en ændring
 Support: Støtte
 TBD: TBD
 Terms of Service: Servicevilkår
+There is an edit suggestion under review for this field: Der er et ændringsforslag under gennemgang for dette felt
+There are hidden edit suggestions under review: Der er skulte ændringsforslag under gennemgang til denne bodega
 This is a community project: "Dette er et fælleskabssprojekt af {authors}"
 Top 10 visited: Top 10 besøgt
+Under review: Under gennemgang
+This bodega is under review: Denne bodega er under gennemgang og vil kun være synlig for dig, indtil den er godkendt
 Unknown: Ukendt
 Use another account: Brug en anden konto
 User: Bruger
@@ -146,18 +157,23 @@ Wiki: Wiki
 Would like to help update this info?: Vil du hjælpe med at opdatere denne info?
 "Yes": Ja
 You are logged in as: "Du er logget ind som: {name}"
+You have entered suggestion mode: Du er nu i Forslagstilstand. Når du er færdig, trykke på "Indsend"-knappen nederst i denne sidebjælke.
+You need to be signed in to suggest an edit: "Du må være logget ind for at kunne foreslå ændringer: {signin} eller {register}"
 
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all errors messages
 
 Error: Fejl
 error:
   couldNotLoadData: Kunne ikke indlæse data
+  couldNotSubmitEditSuggestions: Kunne ikke indsend ædringsforslag
+  couldNotProcessEditSuggestion: Kunne ikke behandle ændringsforslag
+  invalidPostcode: Indtast venligst et gyldigt postnummer
   notFilledIn: Udfyld venligst formularen
   emailNotValid: Email ikke gyldig
   emailNotVerified: Din email er ikke bekræftet. Tjek din indbakke eller {link} en bekræftelsesnøgle.
   passwordNotStrongEnough: Din adgangskode er ikke stærk nok
   passwordNotSame: Du har indtast to forskellige adgangskoder
-  notLoggedIn: Du må være logget ind for at få adgang til denne side
+  notLoggedIn: Du må være logget ind for at få adgang til denne side eller bruge denne funktionalitet
   wrongCredentials: Forkert email eller adgangskode
   generateKey: Kunne ikke generere ny bekræftelsesnøgle
   keyExpired: Bekræftelsesnøglen er udløbet. Du kan generere en ny her.
@@ -179,19 +195,25 @@ success:
   successfullySignedOut: Logget ud
   welcomeBack: "Velkommen tilbage, {firstName} !"
   seeYouSoon: Vi ses snart !
+  editSuggestionsSent: Ændringsforslag sendt til gennemgang
+  editSuggestionApproved: Ændringsforslag godkendt med succes
+  editSuggestionRejected: Ændringsforslag afvist med succes
 
 # COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it
 
 admin:
   Admin: Admin
-  AddBodega: Tilføje Bodega
-  AddToDatabase: Føje til Database
   AdminMode: Admin mode
+  Approved: Approved
+  ApproveConfirmation: Godkendelsesbekræftelse
+  RejectConfirmation: Afvisningsbekræftelse
+  AreYouSureApprove: "Er du sikker på, at du vil godkende {item}?"
+  AreYouSureReject: "Er du sikker på, at du vil afvise {item}?"
   AreYouSureDelete: "Er du sikker på, at du vil slette {item}?"
   AreYouSureDeleteImage: "Er du sikker på, at du vil slette dette billede?"
-  Cancel: Aflyse
   CouldNotDelete: "Kunne ikke slette {item}"
   CouldNotDeleteImage: Kunne ikke slette billede
+  CouldNotUpdateEntry: Kunne ikke opdatere felt
   days:
     Monday: Mandag
     Tuesday: Tirsdag
@@ -206,13 +228,12 @@ admin:
   DragMarker: Træk markøren på kortet
   ImageSuccessfullyDeleted: Billede slettet
   InStamstedersList: I Stamsteders liste
-  Latitude: Breddegrad
-  Location: Beliggenhed
-  Longitude: Længdegrad
   PleaseEnterName: Husk at indtaste et navn
   Save: Gem
   StreetHelp: Indtast gadenavn og nummer
   SuccessfullyDeleted: "Slettet {item}"
+  Suggestion: Forslag
+  Suggestions: Forslag
   to: til
   Users: Bruger
 
