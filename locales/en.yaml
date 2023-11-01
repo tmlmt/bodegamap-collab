@@ -166,6 +166,7 @@ Error: Error
 error:
   couldNotLoadData: Could not load data
   couldNotSubmitEditSuggestions: Could not submit edit suggestions
+  couldNotProcessEditSuggestion: Could not process edit suggestion
   invalidPostcode: Please enter a valid postcode
   notFilledIn: Please fill in the form
   emailNotValid: E-mail not valid
@@ -196,6 +197,8 @@ success:
   welcomeBack: "Welcome back, {firstName} !"
   seeYouSoon: See you soon !
   editSuggestionsSent: Edit suggestions successfully sent for review
+  editSuggestionApproved: Edit suggestion successfully approved
+  editSuggestionRejected: Edit suggestion successfully rejected
 
 # COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it
 
@@ -203,6 +206,10 @@ admin:
   Admin: Admin
   AdminMode: Admin mode
   Approved: Approved
+  ApproveConfirmation: Approval confirmation
+  RejectConfirmation: Rejection confirmation
+  AreYouSureApprove: "Are you sure you want to approve {item}?"
+  AreYouSureReject: "Are you sure you want to reject {item}?"
   AreYouSureDelete: "Are you sure you want to delete {item}?"
   AreYouSureDeleteImage: Are you sure you want to delete this image?
   CouldNotDelete: "Could not delete {item}"
@@ -225,6 +232,7 @@ admin:
   Save: Save
   StreetHelp: Enter street name and number
   SuccessfullyDeleted: "Successfully deleted {item}"
+  Suggestion: Suggestion
   Suggestions: Suggestions
   to: to
   Users: Users

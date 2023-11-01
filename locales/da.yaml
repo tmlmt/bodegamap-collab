@@ -166,6 +166,7 @@ Error: Fejl
 error:
   couldNotLoadData: Kunne ikke indlæse data
   couldNotSubmitEditSuggestions: Kunne ikke indsend ædringsforslag
+  couldNotProcessEditSuggestion: Kunne ikke behandle ændringsforslag
   invalidPostcode: Indtast venligst et gyldigt postnummer
   notFilledIn: Udfyld venligst formularen
   emailNotValid: Email ikke gyldig
@@ -195,6 +196,8 @@ success:
   welcomeBack: "Velkommen tilbage, {firstName} !"
   seeYouSoon: Vi ses snart !
   editSuggestionsSent: Ændringsforslag sendt til gennemgang
+  editSuggestionApproved: Ændringsforslag godkendt med succes
+  editSuggestionRejected: Ændringsforslag afvist med succes
 
 # COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it
 
@@ -202,6 +205,10 @@ admin:
   Admin: Admin
   AdminMode: Admin mode
   Approved: Approved
+  ApproveConfirmation: Godkendelsesbekræftelse
+  RejectConfirmation: Afvisningsbekræftelse
+  AreYouSureApprove: "Er du sikker på, at du vil godkende {item}?"
+  AreYouSureReject: "Er du sikker på, at du vil afvise {item}?"
   AreYouSureDelete: "Er du sikker på, at du vil slette {item}?"
   AreYouSureDeleteImage: "Er du sikker på, at du vil slette dette billede?"
   CouldNotDelete: "Kunne ikke slette {item}"
@@ -224,7 +231,8 @@ admin:
   Save: Gem
   StreetHelp: Indtast gadenavn og nummer
   SuccessfullyDeleted: "Slettet {item}"
-  Suggestions: Suregencias
+  Suggestion: Forslag
+  Suggestions: Forslag
   to: til
   Users: Bruger
 
