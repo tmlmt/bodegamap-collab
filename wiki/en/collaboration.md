@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-09-27"
+      content: "2023-11-01"
     - property: "article:section"
       content: "Contribution"
 ---
@@ -25,7 +25,7 @@ Bodega Map is a community project, so we love contributions of all kind. ❤️
 
 ## How to contribute
 
-You can of course use the [contact form](/en/contact) for quick-and-easy suggestions, but we have also put in place a couple of tools to ease the work on our end. Most of them are based on the software development platform _Github_.
+You can of course use the [contact form](/en/contact) for quick-and-easy suggestions, but we have also put in place a couple of tools to ease the work on our end. Some functionalities are available directly on the site for registered user. The rest is based on the software development platform _Github_.
 
 ### Found an issue with the website? 🐛
 
@@ -33,9 +33,7 @@ Check that it is not already listed in the [issues](https://github.com/tmlmt/bod
 
 ### Want to suggest updated metadata 🗃️ or submit a picture 📷 for some bodega?
 
-Create a new discussion in the [bodegas](https://github.com/tmlmt/bodegamap-collab/discussions/categories/bodegas) category of the [discussion](https://github.com/tmlmt/bodegamap-collab/discussions) section.
-
-Regarding pictures, please include your name and the date at which the picture was taken, to properly credit you 😊
+Register as a user and you will be able to add / edit bodegas, and add pictures. Read more in the list of functionalities on [this wiki page](/en/wiki/what-is-bodega-map).
 
 ### Have an idea? 💡
 

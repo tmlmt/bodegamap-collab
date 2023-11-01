@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-04-21"
+      content: "2023-11-01"
     - property: "article:section"
       content: "Bidrag"
 ---
@@ -25,17 +25,15 @@ Bodega Map er et fælleskabssprojekt, så bidrag fra alle meget velkomne. ❤️
 
 ## Hvordan kan jeg bidrage?
 
-I kan selvfølgelig bruge [kontaktformularen](/contact) til hurtige forslag, men vi har også sat på plads et par værktøjer for at lette arbejdet for os. Flere af dem er baseret på softwareudviklingsplatformen _Github_.
+I kan selvfølgelig bruge [kontaktformularen](/contact) til hurtige forslag, men vi har også sat på plads et par værktøjer for at lette arbejdet for os. Nogle funktionalitere er tilgængelige direkt på hjemmesiden. Resten er baseret på softwareudviklingsplatformen _Github_.
 
 ### Er der en fejl på hjemmesiden? 🐛
 
-Tjek, om den ikke allerede meldt på [issues](https://github.com/tmlmt/bodegamap-collab/issues) listen. Hvis det ikke er tilfældet, oprette en ny issue.
+Tjek, om den ikke allerede meldt på [issues](https://github.com/tmlmt/bodegamap-collab/issues) listen. Hvis det ikke er tilfældet, opret en ny issue.
 
 ### Mangler der åbningstider, et billede 📷 eller noget andet 🗃️ om din ynglingsværthus?
 
-Oprette en ny diskussion i [bodegas](https://github.com/tmlmt/bodegamap-collab/discussions/categories/bodegas)-kategorien i [diskussionssektion](https://github.com/tmlmt/bodegamap-collab/discussions).
-
-Når det kommer til billeder, oplys venligst dit navn, og datoen, hvor billedet blev taget, så vi kan kreditere dig ordentligt 😊
+Registrer som bruger for at kunne tilføje eller rediger bodegaer, og uploade billeder. Læs mere om det i beskrivelsen af funktionaliterne på [denne wiki side](/da/wiki/what-is-bodega-map)
 
 ### Har du en idé? 💡
 
