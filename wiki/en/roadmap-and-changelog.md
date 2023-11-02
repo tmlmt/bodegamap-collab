@@ -31,6 +31,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.0.2
+
+### 🔥 Performance
+
+- Lazy-loading of sidebars and bottom panel
+
 ### v2.0.1
 
 #### 🔥 Performance
