@@ -31,7 +31,7 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
-### v2.0.3
+### v2.0.3-2.0.4
 
 Various fixes for v2.0
 
