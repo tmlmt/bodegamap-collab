@@ -31,7 +31,7 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
-### v2.0.3-2.0.5
+### v2.0.3-2.0.6
 
 Various fixes for v2.0
 
@@ -39,7 +39,7 @@ Various fixes for v2.0
 
 #### 🔥 Performance
 
-- Lazy-loading of sidebars and bottom panel
+- Lazy-loading of bottom panel
 
 ### v2.0.1
 
