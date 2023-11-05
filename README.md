@@ -18,9 +18,7 @@ Check that it is not already listed in the [issues](https://github.com/tmlmt/bod
 
 ### Want to suggest updated metadata 🗃️ or submit a picture 📷 for some bodega?
 
-Create a new discussion in the [bodegas](https://github.com/tmlmt/bodegamap-collab/discussions/categories/bodegas) catagory of the [discussion](https://github.com/tmlmt/bodegamap-collab/discussions) section.
-
-Regarding pictures, please include your name and the date at which the picture was taken, to properly credit you 😊
+Register as a user and you will be able to add / edit bodegas, and add pictures. Read more in the list of functionalities on [this wiki page](https://www.bodegamap.com/wiki/what-is-bodega-map).
 
 ### Have an idea? 💡
 
@@ -38,13 +36,20 @@ Write a message with your suggestions (corrections, clarification on how to help
 
 If you'd like to make direct contributions to this repository and you are comfortable using git (we can also help you if you [message](https://github.com/tmlmt/bodegamap-collab/discussions) us), please follow this procedure:
 
-- Install git (see [official doc](https://github.com/git-guides/install-git))
-- Clone this repository (`git clone https://github.com/tmlmt/bodegamap-collab.git`)
-  - If you want to suggest a correction to an already existing language, make that modification in the corresponding file
-  - If you want to suggest a translation into a new language, copy one of the existing ones (e.g. `locales/en.json`), rename it with the corresponding [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (e.g. `locale/fi.json`) and translate all value strings.
-- Commit your changes (`git commit -am "<message>"` with a descriptive `<message>` of less than 50 characters)
-- Push your change (`git push`)
-- Create a pull request to this repo (see [official doc](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
+- On Github:
+  - Create an [account](https://github.com/signup)
+  - [Fork](https://github.com/tmlmt/bodegamapvue-collab/fork) this repository
+- On your machine, in a terminal:
+  - Install git (see [official doc](https://github.com/git-guides/install-git))
+  - Clone your fork-repository (`git clone https://github.com/<your-username>/<repository-name>.git`)
+  - Create a new branch (`git branch <branch_name>`), for instance replacing `<branch_name>` by whatever you like
+  - Make your contribution using your favorite IDE or text editor:
+    - If you want to suggest a correction to an already existing language, make that modification in the corresponding file
+    - If you want to suggest a translation into a new language, copy one of the existing ones (e.g. `locales/en.yaml`), rename it with the corresponding [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (e.g. `locale/fi.yaml`) and translate all value strings. It is the values that need to be translated (right side of ":"), not the keys (left side of ":"). Refer to the english version to double-check the context.
+  - Commit your changes (`git commit -am "<message>"` with a descriptive `<message>` of less than 50 characters)
+  - Push your change (`git push`)
+- Back to Github:
+  - Create a pull request to this repo: see [official doc](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) or simply click on the suggested button when you go back to your fork repository on Github)
 
 We will look at your request as soon as possible. This is the quickest way to implement a change, and the easiest for us.
 
