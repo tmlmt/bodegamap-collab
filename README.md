@@ -41,8 +41,8 @@ If you'd like to make direct contributions to this repository and you are comfor
   - [Fork](https://github.com/tmlmt/bodegamapvue-collab/fork) this repository
 - On your machine, in a terminal:
   - Install git (see [official doc](https://github.com/git-guides/install-git))
-  - Clone your fork-repository (`git clone https://github.com/<your-username>/<repository-name>.git`)
-  - Create a new branch (`git branch <branch_name>`), for instance replacing `<branch_name>` by whatever you like
+  - Clone your fork-repository (`git clone https://github.com/<your_username>/<repository_name>.git`)
+  - Create a new branch (`git branch <branch_name>`), replacing `<branch_name>` by whatever you like
   - Make your contribution using your favorite IDE or text editor:
     - If you want to suggest a correction to an already existing language, make that modification in the corresponding file
     - If you want to suggest a translation into a new language, copy one of the existing ones (e.g. `locales/en.yaml`), rename it with the corresponding [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) language code (e.g. `locale/fi.yaml`) and translate all value strings. It is the values that need to be translated (right side of ":"), not the keys (left side of ":"). Refer to the english version to double-check the context.
