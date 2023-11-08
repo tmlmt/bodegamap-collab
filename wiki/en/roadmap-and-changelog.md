@@ -31,6 +31,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.0.8
+
+### 🩹 Fixes
+
+- **menu:** Broken navigation when returning on map via title or logo ([02493ad](https://github.com/tmlmt/bodegamapvue/commit/02493ad))
+
 ### v2.0.3-2.0.7
 
 Various fixes for v2.0
