@@ -71,6 +71,7 @@ My Account: Mi Cuenta
 Name: Nombre
 New password: Nueva contraseña
 "No": "No"
+No bodega found: No se encontró ninguna bodega
 No bodega selected: No bodega seleccionada
 No bodega in current view: No bodega en la ventana actual
 Number of bodegas in database: Número de bodegas en la base de datos
@@ -123,6 +124,7 @@ Register: Registrarse
 register here: registrate aqui
 Requirements: Requisitos
 Save: Guardar
+Search error: Error de búsqueda
 Send us some feedback: "Esperamos escuchar de ti. Deja un mensaje aquí y los responderemos lo antes posible :)) Hablamos Danés 🇩🇰, Francés 🇫🇷, Inglés 🇺🇸 y Japonés 🇯🇵."
 shortDay:
   Mon: Lu
@@ -177,6 +179,8 @@ Error: Error
 error:
   couldNotLoadData: La información no pudo cargarse
   couldNotSubmitEditSuggestions: Las sugerencias de cambios no pudieron enviarse
+  couldNotProcessEditSuggestion: No se pudo procesar la sugerencia de cambio
+  couldNotCompleteSearch: No se pudo completar la búsquera de bodegas
   invalidPostcode: Ingrese un código postal válido por favor
   notFilledIn: Incompleto
   emailNotValid: Email no válido

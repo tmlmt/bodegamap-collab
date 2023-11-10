@@ -73,6 +73,7 @@ My Account: My Account
 Name: Name
 New password: New password
 "No": "No"
+No bodega found: No bodega found
 No bodega selected: No bodega selected
 No bodega in current view: No bodega in current view
 Number of bodegas in database: Number of bodegas in database
@@ -115,6 +116,7 @@ CollaborationItem2: >-
   a {link} section, where you can propose ideas or translations, get an overview of the changelog and the roadmap, and of course discuss about bodegas in
   general
 Save: Save
+Search error: Search error
 Send us some feedback: "We would love to hear from you. Send us a message here, and we'll reply when we can take the time :)) We speak English 🇺🇸, Danish 🇩🇰, French 🇫🇷, and Japanese 🇯🇵."
 Share link with filters: Share link with filters
 shortDay:
@@ -167,6 +169,7 @@ error:
   couldNotLoadData: Could not load data
   couldNotSubmitEditSuggestions: Could not submit edit suggestions
   couldNotProcessEditSuggestion: Could not process edit suggestion
+  couldNotCompleteSearch: Could not complete search for bodegas
   invalidPostcode: Please enter a valid postcode
   notFilledIn: Please fill in the form
   emailNotValid: E-mail not valid

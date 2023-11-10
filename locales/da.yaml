@@ -71,6 +71,7 @@ My Account: Min Konto
 Name: Navn
 New password: Ny adgangskode
 "No": Nej
+No bodega found: Intet værtshus fundet
 No bodega selected: Intet valgt værtshus
 No bodega in current view: Intet værthus i aktuel visning
 Number of bodegas in database: Antal af bodegas i databasen
@@ -115,6 +116,7 @@ Register: Oprette konto
 register here: opret en ny konto her
 Requirements: Krav
 Save: Gem
+Search error: Søgefejl
 Send us some feedback: "Vi glæder os, at høre fra dig. Læg en besked her og vi besvarer hurtigst muligt :)) Vi taler Dansk 🇩🇰, Fransk 🇫🇷, Engelsk 🇺🇸 og Japansk 🇯🇵."
 shortDay:
   Mon: Man
@@ -167,6 +169,7 @@ error:
   couldNotLoadData: Kunne ikke indlæse data
   couldNotSubmitEditSuggestions: Kunne ikke indsend ædringsforslag
   couldNotProcessEditSuggestion: Kunne ikke behandle ændringsforslag
+  couldNotCompleteSearch: Kunne ikke fuldføre søgningen efter bodegaer
   invalidPostcode: Indtast venligst et gyldigt postnummer
   notFilledIn: Udfyld venligst formularen
   emailNotValid: Email ikke gyldig
