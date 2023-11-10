@@ -31,6 +31,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.1.1
+
+#### 🩹 Fixes
+
+- Search function
+
 ### v2.1.0
 
 #### 🚀 Enhancements
