@@ -31,6 +31,12 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.1.0
+
+#### 🚀 Enhancements
+
+- The filtering field in the menu bar has been replaced by a smart search function. Start typing, and click on a bodega name to fly to it and open its details
+
 ### v2.0.8
 
 ### 🩹 Fixes
