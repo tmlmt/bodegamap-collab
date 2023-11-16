@@ -22,7 +22,7 @@ Confirmation: Bestätigung
 Confirm your new password: Bestätige dein neues Passwort
 Contact: Kontakt
 ContactText: >-
-  Du kannst uns gerne {link} schreiben - egal, ob du nur einfach Servus sagen willst oder deine Gedanken mit uns teilen möchtest! 
+  Du kannst uns gerne {link} schreiben - egal, ob du nur einfach Servus sagen willst oder deine Gedanken mit uns teilen möchtest!
 Contact Form: Kontaktformular
 Contact us: Kontaktiere uns
 Copy direct link: Direkten Link kopieren
@@ -100,7 +100,7 @@ Phone number: Telefonnummer
 Post Code (Short): PLZ
 Post Code: Postleitzahl
 Privacy Policy: Datenschutzerklärung
-RecaptchaNote: "Dieses Formular ist durch reCAPTCHA geschützt. Googles {privacy} und {terms} gelten." 
+RecaptchaNote: "Dieses Formular ist durch reCAPTCHA geschützt. Googles {privacy} und {terms} gelten."
 Recover your password: Passwort wiederherstellen
 Regenerate: Regenerieren
 regenerate: regenerieren
@@ -112,7 +112,7 @@ RoadmapText: Die Bodega Map ist noch lange nicht fertig, wir haben noch viele Id
 CollaborationText: "Wir haben auf Github eine {link} eingerichtet, wo du mitmachen kannst. Es gibt im Wesentlichen zwei Teile:"
 CollaborationItem1: den {link} Abschnitt, wo du Fehler melden kannst und sehen kannst, welche Fehler im backlog sind
 CollaborationItem2: >-
-  den {link} Abschnitt. Hier kannst du Ideen und Übersetzungen vorschlagen. Außerdem kriegst du hier einen Überblick über den changelog und die roadmap. 
+  den {link} Abschnitt. Hier kannst du Ideen und Übersetzungen vorschlagen. Außerdem kriegst du hier einen Überblick über den changelog und die roadmap.
 Save: Speichern
 Search error: Fehler suchen
 Send us some feedback: "Wir freuen uns immer von dir zu hören. Schick uns einfach eine Nachricht und wir antworten so schnell wir können :)) Wir sprechen Englisch 🇺🇸, Dänisch 🇩🇰, Französisch 🇫🇷, und Japanisch 🇯🇵."
@@ -160,7 +160,6 @@ You are logged in as: "Du bist eingeloggt als: {name}"
 You have entered suggestion mode: Du hast den Änderungsmodus aktiviert. Wenn du fertig bist, klicke auf den "Abschicken" Button unten in der Seitenleiste.
 You need to be signed in to suggest an edit: "Du musst eingeloggt sein, um Änderungen vorzuschlagen: {signin} oder {register}"
 
-
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all error and success messages
 
 Error: Fehler
@@ -179,7 +178,7 @@ error:
   wrongCredentials: Falsche Email oder Passwort
   generateKey: Neuer Schlüssel konnte nicht generiert werden
   keyExpired: Schlüssel ist abgelaufen. Bitte generiere einen neuen.
-  noKey: Kein Schlüssel angegeben. 
+  noKey: Kein Schlüssel angegeben.
   wrongKey: Falscher Schlüssel
   wrongRecoveryKey: Falscher Wiederherstellungsschlüssel
   alreadyVerified: E-mail ist bereits bestätigt
@@ -239,6 +238,8 @@ admin:
   Suggestions: Suggestions
   to: to
   Users: Users
+
+# COMMENT:  MANUAL TRANSLATION REQUIRED -- pages meta data
 
 meta:
   index:
