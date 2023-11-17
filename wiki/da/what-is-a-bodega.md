@@ -23,6 +23,8 @@ Vi er meget opmærksomme på, at den definition der præsenteres her ikke er udt
 
 ## Hovedegenskaber
 
+:TagRepere{id="start-answer"}
+
 ### 1. Stamkunder
 
 En bodega er først og fremmest et mødested for lokalbefolkningen, som nogle gange ses som en forlængelse af deres stuer. Det vil altid blive overværet af et par stamkunder, på ethvert tidspunkt af dagen. Det er et godt tegn, hvis din entré bliver budt velkommen af deres stirrende blikke. Nogle vil have deres navne på en plakette ved disken eller ved deres stambord.

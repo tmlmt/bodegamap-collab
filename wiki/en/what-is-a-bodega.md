@@ -23,6 +23,8 @@ We fully acknowledge that the definition presented here is highly subjective and
 
 ## Main characteristics
 
+:TagRepere{id="start-answer"}
+
 ### 1. Regulars
 
 A bodega is first and foremost a meeting place for the locals, for which it is sometimes seen as an extension of their living rooms. It will always be attended by a few regulars, at any time of day. It is a good sign if your entrance is welcomed by their staring gazes. Some will have their names on a plaque at the counter or at their reserved table.
