@@ -270,6 +270,7 @@ meta:
     title: Password recovery
     description: Password recovery page for Bodega Map accounts
 
+
 # COMMENT: NO NEED FOR MANUAL TRADUCTION -- automatically composed --
 
 and: "@.lower:And"
