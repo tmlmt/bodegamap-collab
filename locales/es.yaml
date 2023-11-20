@@ -5,6 +5,7 @@ Account: Cuenta
 Add: Añadir
 Add Bodega: Añadir bodega
 Address: Dirección
+All ratings: Todas la valoraciones
 And: "Y"
 Article available soon: Articulo pronto disponible
 Authors: Autores
@@ -68,6 +69,7 @@ Longitude: Longitud
 Maybe: Quizás
 Message: Mensaje
 My Account: Mi Cuenta
+My review: Mi reseña
 Name: Nombre
 New password: Nueva contraseña
 "No": "No"
@@ -123,8 +125,10 @@ regenerate: regenere
 Register: Registrarse
 register here: registrate aqui
 Requirements: Requisitos
+Reviews: Reseñas
 Save: Guardar
 Search error: Error de búsqueda
+Select: Seleccione
 Send us some feedback: "Esperamos escuchar de ti. Deja un mensaje aquí y los responderemos lo antes posible :)) Hablamos Danés 🇩🇰, Francés 🇫🇷, Inglés 🇺🇸 y Japonés 🇯🇵."
 shortDay:
   Mon: Lu
@@ -181,6 +185,7 @@ error:
   couldNotSubmitEditSuggestions: Las sugerencias de cambios no pudieron enviarse
   couldNotProcessEditSuggestion: No se pudo procesar la sugerencia de cambio
   couldNotCompleteSearch: No se pudo completar la búsquera de bodegas
+  couldNotUpdateDatabase: No se pudo actualizar la base de datos
   invalidPostcode: Ingrese un código postal válido por favor
   notFilledIn: Incompleto
   emailNotValid: Email no válido
