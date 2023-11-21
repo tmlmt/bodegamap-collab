@@ -3,7 +3,7 @@ name: yaml-lint
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["yaml-validate"]
+    workflows: [yaml-validate]
     types:
       - completed
 
