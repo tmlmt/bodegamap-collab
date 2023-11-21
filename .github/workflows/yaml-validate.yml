@@ -1,0 +1,21 @@
+name: yaml-validate 
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  yaml-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: yaml-validate
+        id: yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.4.0
+        with:
+          comment: "true"
+          base_dir: "./locales"
