@@ -2,11 +2,8 @@ name: yaml-lint
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: [yaml-validate]
-    types:
-      - completed
-
+  pull_request_target:
+  
 jobs:
   yaml-lint:
     runs-on: ubuntu-latest
