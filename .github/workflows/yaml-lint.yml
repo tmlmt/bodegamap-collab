@@ -1,0 +1,20 @@
+name: yaml-lint
+
+on:
+  workflow_dispatch:
+
+jobs:
+  yaml-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint and Annotate
+        uses: staffbase/yamllint-action@v1.2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ## The target path is processed recursively
+          target-path: ./locales
+          ## The action name is only necessary if the current action name changed
+          action-name: yaml-lint
