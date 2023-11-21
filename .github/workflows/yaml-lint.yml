@@ -2,10 +2,15 @@ name: yaml-lint
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["yaml-validate"]
+    types:
+      - completed
 
 jobs:
   yaml-lint:
     runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'success'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
