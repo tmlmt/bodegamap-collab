@@ -5,6 +5,7 @@ Account: Konto
 Add: Tilføj
 Add Bodega: Tilføje Bodega
 Address: Adresse
+All ratings: Alle bedømmelser
 And: Og
 Article available soon: Artikel snart tilgængelig
 Authors: Forfattere
@@ -68,6 +69,7 @@ Longitude: Længdegrad
 Maybe: Måske
 Message: Besked
 My Account: Min Konto
+My review: Min anmeldelse
 Name: Navn
 New password: Ny adgangskode
 "No": Nej
@@ -115,8 +117,10 @@ regenerate: genopret
 Register: Oprette konto
 register here: opret en ny konto her
 Requirements: Krav
+Reviews: Bedømmelser
 Save: Gem
 Search error: Søgefejl
+Select: Vælg
 Send us some feedback: "Vi glæder os, at høre fra dig. Læg en besked her og vi besvarer hurtigst muligt :)) Vi taler Dansk 🇩🇰, Fransk 🇫🇷, Engelsk 🇺🇸 og Japansk 🇯🇵."
 shortDay:
   Mon: Man
@@ -170,6 +174,7 @@ error:
   couldNotSubmitEditSuggestions: Kunne ikke indsend ædringsforslag
   couldNotProcessEditSuggestion: Kunne ikke behandle ændringsforslag
   couldNotCompleteSearch: Kunne ikke fuldføre søgningen efter bodegaer
+  couldNotUpdateDatabase: Kunne ikke opdatere databasen
   invalidPostcode: Indtast venligst et gyldigt postnummer
   notFilledIn: Udfyld venligst formularen
   emailNotValid: Email ikke gyldig

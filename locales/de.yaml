@@ -5,6 +5,7 @@ Account: Account
 Add: Hinzufügen
 Add Bodega: Bodega hinzufügen
 Address: Adresse
+All ratings: Alle Bewertungen
 And: Und
 Article available soon: Artikel bald verfügbar
 Authors: Authoren
@@ -69,6 +70,7 @@ Longitude: Längengrad
 Maybe: Vielleicht
 Message: Nachricht
 My Account: Mein Account
+My review: Meine Bewertung
 Name: Name
 New password: Neues Passwort
 "No": "Nein"
@@ -107,6 +109,7 @@ regenerate: regenerieren
 Register: Registrieren
 register here: Hier registrieren
 Requirements: Anforderungen
+Reviews: Bewertungen
 Roadmap and Collaboration: Roadmap und Zusammenarbeit
 RoadmapText: Die Bodega Map ist noch lange nicht fertig, wir haben noch viele Ideen. Immer, wenn wir Zeit dafür haben, setzen wir ein paar davon um. Wenn du Zeit und Lust hast hilf gerne mit!
 CollaborationText: "Wir haben auf Github eine {link} eingerichtet, wo du mitmachen kannst. Es gibt im Wesentlichen zwei Teile:"
@@ -115,6 +118,7 @@ CollaborationItem2: >-
   den {link} Abschnitt. Hier kannst du Ideen und Übersetzungen vorschlagen. Außerdem kriegst du hier einen Überblick über den changelog und die roadmap.
 Save: Speichern
 Search error: Fehler suchen
+Select: Wählen
 Send us some feedback: "Wir freuen uns immer von dir zu hören. Schick uns einfach eine Nachricht und wir antworten so schnell wir können :)) Wir sprechen Englisch 🇺🇸, Dänisch 🇩🇰, Französisch 🇫🇷, und Japanisch 🇯🇵."
 Share link with filters: Link mit Filtern teilen
 shortDay:
@@ -174,6 +178,7 @@ error:
   couldNotSubmitEditSuggestions: Änderungsvorschläge konnten nicht abgeschickt werden
   couldNotProcessEditSuggestion: Änderungsvorschlag konnte nicht bearbeitet werden
   couldNotCompleteSearch: Suche nach Bodegas konnte nicht abgeschlossen werden
+  couldNotUpdateDatabase: Die Datenbank konnte nicht aktualisiert werden
   invalidPostcode: Ungültige Postleitzahl
   notFilledIn: Nicht ausgefüllt
   emailNotValid: E-mail ist nicht gültig
