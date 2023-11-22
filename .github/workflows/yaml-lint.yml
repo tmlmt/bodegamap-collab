@@ -1,0 +1,29 @@
+name: yaml-check-and-lint
+
+on:
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  yaml-check-and-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: 🕵 Validate YAML files
+        id: validate-yaml
+        run: python .github/checks/validate_yaml.py locales
+
+      - name: 🚀 Run yamllint
+        uses: frenck/action-yamllint@v1
+        with:
+          path: "locales/"
