@@ -22,3 +22,4 @@ Tusind tak til vores bidragydere, som har hjulpet på en eller anden måde med a
 - [En Classic-entusiast]{.fakelink} som fortrak at være anonym: billede og rettelser forslået for en bodega.
 - [Mari Carmen Casermeiro Gámez :LinkedInLogo{color="#458bfd"}](https://www.linkedin.com/in/maria-del-carmen-casermeiro-g%C3%A1mez-58b84b195): oversættelse til spansk 🇪🇸
 - Sacul ([@saculululul](https://instagram.com/saculululul) :InstagramLogo): tusind tak for vores endeløse diskussioner i løbet af vores Bodega-turer og for at have inspireret mig til at oprette denne hjemmeside.
+- Vincent S ([@vsteffan](https://github.com/vsteffan) :GithubLogo): oversættelse til tysk 🇩🇪

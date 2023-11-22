@@ -22,3 +22,4 @@ Many thanks to our contributors who have helped in many ways to making the Bodeg
 - [A Classic Enthusiast]{.fakelink} who preferred to remain anonymous: picture and corrections suggested for a bodega.
 - [Mari Carmen Casermeiro Gámez :LinkedInLogo{color="#458bfd"}](https://www.linkedin.com/in/maria-del-carmen-casermeiro-g%C3%A1mez-58b84b195): translation into Spanish 🇪🇸
 - Sacul ([@saculululul](https://instagram.com/saculululul) :InstagramLogo): many thanks for our endless discussions during our Bodega tours and for having inspired me to create this website.
+- Vincent S ([@vsteffan](https://github.com/vsteffan) :GithubLogo): translation into German 🇩🇪
