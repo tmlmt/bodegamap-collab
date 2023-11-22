@@ -1,0 +1,276 @@
+# COMMENT: MANUAL TRANSLATION REQUIRED -- standard messages
+
+About: Über uns
+Account: Account
+Add: Hinzufügen
+Add Bodega: Bodega hinzufügen
+Address: Adresse
+And: Und
+Article available soon: Artikel bald verfügbar
+Authors: Authoren
+BuyMeATuborg: "Wenn du diese Karte magst und uns unterstützen möchtest, kauf uns ein Bier"
+Cancel: Abbrechen
+Characteristics: Eigenschaften
+City: Stadt
+Closed: Geschlossen
+Closed permanently: Dauerhaft geschlossen
+Closed temporarily: Zur Zeit geschlossen
+Closed - Opens Next: "{closed} - Öffnet {day} um {time}"
+Closes soon at: "{closes} um {time}"
+Closes soon: Schließt bald
+Confirmation: Bestätigung
+Confirm your new password: Bestätige dein neues Passwort
+Contact: Kontakt
+ContactText: >-
+  Du kannst uns gerne {link} schreiben - egal, ob du nur einfach Servus sagen willst oder deine Gedanken mit uns teilen möchtest!
+Contact Form: Kontaktformular
+Contact us: Kontaktiere uns
+Copy direct link: Direkten Link kopieren
+Current version: Aktuelle Version
+Detailed information about a bodega on Bodega Map: Genauere Informationen über {name} auf der Bodega Map
+Details: Details
+Disclaimer: Disclaimer
+DisclaimerText: >-
+  Unsere Leidenschaft für Bodegas hat uns dazu gebracht, dieses Projekt zu beginnen. Wir wollten unsere praktische Herangehensweise teilen: Ursprünglich haben wir nur nach einem Weg gesucht, 
+  herauszufinden, welche Bodega wir als nächstes ausprobieren sollten. Gleichzeitig haben wir nach einem Weg gesucht, unsere Erinnerungen zu speichern.
+  Wir sind uns vollkommen bewusst, dass die hier präsentierten Daten nicht vollständig sind, dass sie Fehler enthalten können,
+  und dass sie nicht die kollektive Tiefe und Genauigkeit der größeren Community (z.B. Stammgäste, Journalist:innen, Forscher:innen und Enthusiast:innen in sozialen Medien) haben.
+Discussions: Diskussionen
+E-mail: E-mail
+E-mail verification: E-mail bestätigen
+Filter: Filter
+Filter by name: Filter nach Name
+First name: Vorname
+Forgot your password?: Passwort vergessen?
+Entertainment: Unterhaltung
+Billard: Billard
+Table football: Kicker
+Darts: Darts
+TV screens: Fernseher
+Live music: Live Musik
+Outdoor seating: Außenbereich
+Has a billard table: Gibt es einen billard table
+Has a dartboard: Gibt es eine Dartscheibe
+Has a table football table: Gibt es einen Kicker
+Has outdoor seating: Man kann draußen sitzen
+Has live music events: Es gibt Events mit live Musik
+Shows sports on TV: Es werden Sportevents im Fernsehen gezeigt
+Has images: Es gibt Bilder
+Images: Bilder
+In Stamsteder's List: "In Stamsteder's Liste 📙"
+In Stamsteder's List With Link: "In {link}'s Liste 📙"
+Issues: Probleme
+Last name: Nachname
+Link copied to clipboard: Link in Zwischenablage kopiert
+Loading...: Lädt...
+Latitude: Breitengrad
+Location: Standort
+Longitude: Längengrad
+Maybe: Vielleicht
+Message: Nachricht
+My Account: Mein Account
+Name: Name
+New password: Neues Passwort
+"No": "Nein"
+No bodega found: Keine Bodega gefunden
+No bodega selected: Keine Bodega ausgewählt
+No bodega in current view: Keine Bodega in der aktuellen Ansicht
+Number of bodegas in database: Anzahl an Bodegas in der Datenbank
+Total estimated in Denmark: Gesamtzahl in Dänemark (geschätzt)
+Number of bodegas with at least one image: Anzahl an Bodegas mit mindestens einem Bild
+Number of bodegas with opening hours: Anzahl an Bodegas mit Öffnungszeiten
+Number of bodegas with all characteristics filled in: Anzahl an Bodegas mit allen Eigenschaften
+Open: Offen
+Open now: Jetzt offen
+Open until: "{open} bis {time}"
+Opening Hours: Öffnungszeiten
+Optional: Optional
+Others: Andere
+Password: Passwort
+Pick a password: Passwort wählen
+Repository: Repository
+Several requirements unmet: Mehrere Anforderungen nicht erfüllt
+Almost there: Fast geschafft
+At least one lowercase: Mindestens ein Kleinbuchstabe
+At least one uppercase: Mindestens ein Großbuchstabe
+At least one numeric: Mindestens eine Zahl
+At least one special character: Mindestens ein Sonderzeichen
+Minimum 8 characters: Mindestens 8 Zeichen
+Phone number: Telefonnummer
+Post Code (Short): PLZ
+Post Code: Postleitzahl
+Privacy Policy: Datenschutzerklärung
+RecaptchaNote: "Dieses Formular ist durch reCAPTCHA geschützt. Googles {privacy} und {terms} gelten."
+Recover your password: Passwort wiederherstellen
+Regenerate: Regenerieren
+regenerate: regenerieren
+Register: Registrieren
+register here: Hier registrieren
+Requirements: Anforderungen
+Roadmap and Collaboration: Roadmap und Zusammenarbeit
+RoadmapText: Die Bodega Map ist noch lange nicht fertig, wir haben noch viele Ideen. Immer, wenn wir Zeit dafür haben, setzen wir ein paar davon um. Wenn du Zeit und Lust hast hilf gerne mit!
+CollaborationText: "Wir haben auf Github eine {link} eingerichtet, wo du mitmachen kannst. Es gibt im Wesentlichen zwei Teile:"
+CollaborationItem1: den {link} Abschnitt, wo du Fehler melden kannst und sehen kannst, welche Fehler im backlog sind
+CollaborationItem2: >-
+  den {link} Abschnitt. Hier kannst du Ideen und Übersetzungen vorschlagen. Außerdem kriegst du hier einen Überblick über den changelog und die roadmap.
+Save: Speichern
+Search error: Fehler suchen
+Send us some feedback: "Wir freuen uns immer von dir zu hören. Schick uns einfach eine Nachricht und wir antworten so schnell wir können :)) Wir sprechen Englisch 🇺🇸, Dänisch 🇩🇰, Französisch 🇫🇷, und Japanisch 🇯🇵."
+Share link with filters: Link mit Filtern teilen
+shortDay:
+  Mon: Mo
+  Tue: Di
+  Wed: Mi
+  Thu: Do
+  Fri: Fr
+  Sat: Sa
+  Sun: So
+Show: Zeigen
+Show List: Liste anzeigen
+Hide List: Liste verstecken
+Show Map: Karte anzeigen
+Show Sidepanel: Seitenleiste anzeigen
+Smoking allowed: Rauchen erlaubt
+Smoking not allowed: Rauchen nicht erlaubt
+Sign in: Einloggen
+Sign out: Ausloggen
+Statistics: Statistiken
+Status: Status
+Street: Straße
+Strong: Stark
+Submit: Abschicken
+Suggest an edit: Änderung vorschlagen
+Support: Support
+TBD: TBD
+Terms of Service: Nutzungsbedingungen
+There is an edit suggestion under review for this field: Es gibt eine Änderung in diesem Bereich, die überprüft wird
+There are hidden edit suggestions under review: Es gibt versteckte Änderungen für diese, die überprüft werden
+This is a community project: "Das ist ein gemeinsames Projekt von {authors}"
+Top 10 visited: Top 10 besucht
+Under review: Wird überprüft
+This bodega is under review: Diese Bodega wird überprüft und erst öffentlich gemacht wenn sie überprüft wurde
+Unknown: Unbekannt
+Use another account: Anderen Account verwenden
+User: Benutzer
+Visited: Besucht
+Wiki: Wiki
+Would like to help update this info?: Willst du helfen, diese Informationen zu aktualisieren?
+"Yes": "Ja"
+You are logged in as: "Du bist eingeloggt als: {name}"
+You have entered suggestion mode: Du hast den Änderungsmodus aktiviert. Wenn du fertig bist, klicke auf den "Abschicken" Button unten in der Seitenleiste.
+You need to be signed in to suggest an edit: "Du musst eingeloggt sein, um Änderungen vorzuschlagen: {signin} oder {register}"
+
+# COMMENT: MANUAL TRANSLATION REQUIRED -- all error and success messages
+
+Error: Fehler
+error:
+  couldNotLoadData: Daten konnten nicht geladen werden
+  couldNotSubmitEditSuggestions: Änderungsvorschläge konnten nicht abgeschickt werden
+  couldNotProcessEditSuggestion: Änderungsvorschlag konnte nicht bearbeitet werden
+  couldNotCompleteSearch: Suche nach Bodegas konnte nicht abgeschlossen werden
+  invalidPostcode: Ungültige Postleitzahl
+  notFilledIn: Nicht ausgefüllt
+  emailNotValid: E-mail ist nicht gültig
+  emailNotVerified: E-mail ist nicht bestätigt. Bitte überprüfe deinen Posteingang oder {link}.
+  passwordNotStrongEnough: Passwort ist nicht stark genug
+  passwordNotSame: Passwörter stimmen nicht überein
+  notLoggedIn: Du musst eingelogged sein um dieses feature zu verwenden.
+  wrongCredentials: Falsche Email oder Passwort
+  generateKey: Neuer Schlüssel konnte nicht generiert werden
+  keyExpired: Schlüssel ist abgelaufen. Bitte generiere einen neuen.
+  noKey: Kein Schlüssel angegeben.
+  wrongKey: Falscher Schlüssel
+  wrongRecoveryKey: Falscher Wiederherstellungsschlüssel
+  alreadyVerified: E-mail ist bereits bestätigt
+  recoveryLinkExpired: Wiederherstellungslink abgelaufen. Bitte versuche den Passwortwiederherstellungsprozess nochmal.
+  unauthenticated: Nicht authentifiziert. Bitte einloggen
+  unknown: Unbekannter Fehler
+  userNotFound: Kein Nutzer mit dieser Email Adresse. Versuche es mit einer anderen Email oder {link}.
+Success: Erfolg
+success:
+  accountCreated: Account erstellt. Bitte checke deine E-mails
+  emailVerified: E-mail bestätigt
+  newKeySent: Neuer Schlüssel gesendet. Bitte checke deine E-mails
+  recoveryEmailSent: Wiederherstellungsemail gesendet. Bitte checke deine E-mails
+  passwordChanged: Passwort erfolgreich geändert
+  successfullySignedIn: Erfolgreich eingeloggt
+  successfullySignedOut: Erfolgreich ausgeloggt
+  welcomeBack: "Schön dich wieder zu sehen, {firstName} !"
+  seeYouSoon: Bis bald!
+  editSuggestionsSent: Änderungsvorschläge abgeschickt und werden überprüft
+  editSuggestionApproved: Änderungsvorschlag erfolgreich angenommen
+  editSuggestionRejected: Änderungsvorschlag erfolgreich abgelehnt
+
+# COMMENT: NO NEED FOR MANUAL TRADUCTION -- admins will take care of it
+
+admin:
+  Admin: Admin
+  AdminMode: Admin Modus
+  Approved: Bestätigt
+  ApproveConfirmation: Zustimmungsbestätigung
+  RejectConfirmation: Ablehnungsbestätigung
+  AreYouSureApprove: "Willst du wirklich {item} bestätigen?"
+  AreYouSureReject: "Willst du wirklich {item} ablehnen?"
+  AreYouSureDelete: "Willst du wirklich {item} löschen?"
+  AreYouSureDeleteImage: Willst du wirklich dieses Bild löschen?
+  CouldNotDelete: "{item} konnte nicht gelöscht werden"
+  CouldNotDeleteImage: Bild konnte nicht gelöscht werden
+  CouldNotUpdateEntry: Eintrag konnte nicht aktualisiert werden
+  days:
+    Monday: Montag
+    Tuesday: Dienstag
+    Wednesday: Mittwoch
+    Thursday: Donnerstag
+    Friday: Freitag
+    Saturday: Samstag
+    Sunday: Sonntag
+  DeleteBodega: Bodega löschen
+  DeleteConfirmation: Löschbestätigung
+  Deleted: Gelöscht
+  DragMarker: Ziehe den Marker um die Position zu ändern
+  ImageSuccessfullyDeleted: Bild erfolgreich gelöscht
+  InStamstedersList: In Stamsteder's Liste
+  PleaseEnterName: Bitte Namen eingeben
+  Save: Speichern
+  StreetHelp: Straße und Hausnummer eingeben
+  SuccessfullyDeleted: "{item} erfolgreich gelöscht"
+  Suggestion: Änderungsvorschlag
+  Suggestions: Änderungsvorschläge
+  to: an
+  Users: Nutzer
+
+# COMMENT:  MANUAL TRANSLATION REQUIRED -- pages meta data
+
+meta:
+  index:
+    title: Home
+    description: Entdecke Dänemarks traditionelle Pubs mit einer interaktiven Karte und finde Pubs in deiner Nähe!
+  about:
+    title: Über
+    description: "Ein paar Worte über die Bodega Map."
+  stats:
+    title: Statistiken
+    description: "Die Bodega Map in Zahlen: Prozentuale Abdeckung von Dänemark, Anzahl mit bestimmten Eigenschaften, etc."
+  contact:
+    title: Kontakt
+    description: "Fülle die Kontaktform aus um uns Feedback zu geben. Wir freuen uns immer von dir zu hören!"
+  login:
+    title: Login
+    description: "Logge dich ein und bekomme exklusive features."
+  account:
+    title: Mein Account
+    description: "Verwalte deinen Account und deine Änderungsvorschläge."
+  register:
+    title: Registrieren
+    description: Registriere dich und bekomme exklusive features.
+  verify:
+    title: E-mail bestätigen
+    description: E-mail Bestätigungsseite für deinen Bodega Map Account
+  recovery:
+    title: Password wiederherstellen
+    description: Password Wiederherstellungsseite für deinen Bodega Map Account
+
+
+# COMMENT: NO NEED FOR MANUAL TRADUCTION -- automatically composed --
+
+and: "@.lower:And"
