@@ -1,0 +1,11 @@
+extends: default
+
+rules:
+  line-length:
+    max: 160
+  truthy: disable
+  quoted-strings:
+    required: only-when-needed
+    allow-quoted-quotes: true
+  empty-values: enable
+  document-start: disable
