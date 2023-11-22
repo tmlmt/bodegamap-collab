@@ -160,6 +160,12 @@ You are logged in as: "Du bist eingeloggt als: {name}"
 You have entered suggestion mode: Du hast den Änderungsmodus aktiviert. Wenn du fertig bist, klicke auf den "Abschicken" Button unten in der Seitenleiste.
 You need to be signed in to suggest an edit: "Du musst eingeloggt sein, um Änderungen vorzuschlagen: {signin} oder {register}"
 
+# COMMENT: MANUAL TRANSLATION REQUIRED -- all info messages
+
+info:
+  fallbackLocale: Alternative Sprache
+  fallbackLocaleDetail: Die Wiki-Seiten sind nicht in deutscher Sprache verfügbar. Sie werden auf Englisch gezeigt
+
 # COMMENT: MANUAL TRANSLATION REQUIRED -- all error and success messages
 
 Error: Fehler
@@ -269,7 +275,6 @@ meta:
   recovery:
     title: Password wiederherstellen
     description: Password Wiederherstellungsseite für deinen Bodega Map Account
-
 
 # COMMENT: NO NEED FOR MANUAL TRADUCTION -- automatically composed --
 
