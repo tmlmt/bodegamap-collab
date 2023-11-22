@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-04-21"
     - property: "article:modified_time"
-      content: "2023-09-27"
+      content: "2023-11-22"
     - property: "article:section"
       content: "Bidrag"
 ---
