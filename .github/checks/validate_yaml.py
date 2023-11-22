@@ -53,7 +53,7 @@ def validate_yaml(yaml_file):
     return True
 
 if __name__ == "__main__":
-    directory = input("Enter the directory to validate YAML files in: ")
+    directory = sys.argv[1]
     if validate_yaml_files(directory):
         sys.exit(0)
     else:
