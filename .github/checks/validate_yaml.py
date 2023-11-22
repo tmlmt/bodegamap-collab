@@ -36,8 +36,8 @@ def validate_yaml(yaml_file):
                 if not isinstance(key, str) or not isinstance(value, str):
                     errors_found = True
                     if first_error:
-                    print(f"::group::{yaml_file}")
-                    first_error = False
+                        print(f"::group::{yaml_file}")
+                        first_error = False
                     print(f"::error file={yaml_file},line={f.tell() - len(key) - 2}::Incorrect syntax. Check that the value is a valid yaml string")
 
         except yaml.YAMLError as e:
