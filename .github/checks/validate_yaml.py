@@ -21,7 +21,7 @@ def validate_yaml_files(directory):
 def find_line_number(file_path, target_key):
     with open(file_path, 'r') as f:
         for line_number, line in enumerate(f, start=1):
-            if target_text + ":" in line:
+            if target_key + ":" in line:
                 return line_number
     return None
 
