@@ -24,6 +24,22 @@ def validate_yaml(yaml_file):
     with open(yaml_file, 'r') as f:
         try:
             data = yaml.safe_load(f)
+
+            if not isinstance(data, dict):
+                print(f"::group::{yaml_file}")
+                print(f"Invalid YAML file: {yaml_file}")
+                print("Top-level structure should be a dictionary")
+                print(f"::endgroup::")
+                return False
+
+            for key, value in data.items():
+                if not isinstance(key, str) or not isinstance(value, str):
+                    errors_found = True
+                    if first_error:
+                    print(f"::group::{yaml_file}")
+                    first_error = False
+                    print(f"::error file={yaml_file},line={f.tell() - len(key) - 2}::Incorrect syntax. Check that the value is a valid yaml string")
+
         except yaml.YAMLError as e:
             print(f"::group::{yaml_file}")
             print(f"Invalid YAML file: {yaml_file}")
@@ -31,24 +47,9 @@ def validate_yaml(yaml_file):
             print(f"::endgroup::")
             return False
 
-    if not isinstance(data, dict):
-        print(f"::group::{yaml_file}")
-        print(f"Invalid YAML file: {yaml_file}")
-        print("Top-level structure should be a dictionary")
+    if errors_found:
         print(f"::endgroup::")
         return False
-
-    for key, value in data.items():
-        if not isinstance(key, str) or not isinstance(value, str):
-            errors_found = True
-            if first_error:
-              print(f"::group::{yaml_file}")
-              first_error = False
-            print(f"::error file={yaml_file},line={f.tell() - len(key) - 2}::Incorrect syntax. Check that the value is a valid yaml string")
-
-    if errors_found:
-      print(f"::endgroup::")
-      return False
 
     return True
 
