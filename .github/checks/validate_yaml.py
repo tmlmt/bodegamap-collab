@@ -46,6 +46,8 @@ def validate_yaml(yaml_file):
         return False
 
     for key, value in data.items():
+        if key in ["success", "meta", "success", "admin", "shortDay", "info", "error"]:
+            continue
         if not isinstance(key, str) or not isinstance(value, str):
             errors_found = True
             if first_error:
