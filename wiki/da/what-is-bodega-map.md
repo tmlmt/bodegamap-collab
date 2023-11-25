@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-11-01"
+      content: "2023-11-25"
     - property: "article:section"
       content: "Introduktion"
 ---
@@ -79,11 +79,19 @@ Er åbningstiderne ikke opdaterede? Eller vil du rette noget andet? Klik på "Fo
 
 Når du har indsendt formularen, vil redigeringerne være tilgængelige for mig. Nogle indikationer vil dukke op for at informere besøgende om, at nogle oplysninger afventer gennemgang.
 
-#### 3. Hold styr på de bodegaer, du har besøgt
+#### 3. Anmeld bodegas fra <i class="pi pi-star-fill" /> til <i class="pi pi-star-fill" /><i class="pi pi-star-fill" /><i class="pi pi-star-fill" /><i class="pi pi-star-fill" /><i class="pi pi-star-fill" />
+
+![Anmeld bodegas](/images/wiki/feature-rate.png){class='border-1 border-300' sizes='85vw sm:515px'}
+
+Når du har klikket på en bodega, er sektionen "Min anmeldelse" i bunden af sidebjælken, hvor du kan score stedet fra 1 til 5 stjerner. Din bedømmelse vil blive aggregeret med bedømmelserne fra andre brugere: den gennemsnitlige bedømmelse er det, der vises under navnet på bodegaen.
+
+#### 4. Hold styr på de bodegaer, du har besøgt
 
 ![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
 Marker eller fjern markeringen af flaget, når du har klikket på den bodega, du har besøgt
+
+#### 5. Brug ekstra filtre
 
 ![Se lukkede bodegaer](/images/wiki/feature-closed.png){class='border-1 border-300' sizes='85vw sm:515px'}
 

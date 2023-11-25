@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-11-01"
+      content: "2023-11-25"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -81,13 +81,19 @@ Are the opening hours not up to date? Or would you like to correct anything else
 
 Once you've submitted the form, the edits will be available for review by me. Some indication will appear to inform visitors that some information may be updated soon.
 
-#### 3. Keep track of bodegas you've visited
+#### 3. Rate bodegas from <i class="pi pi-star-fill" /> to <i class="pi pi-star-fill" /><i class="pi pi-star-fill" /><i class="pi pi-star-fill" /><i class="pi pi-star-fill" /><i class="pi pi-star-fill" />
+
+![Rate bodegas](/images/wiki/feature-rate.png){class='border-1 border-300' sizes='85vw sm:515px'}
+
+When you have clicked on a bodega, the "My Review" section at the bottom of the sidebar is where you can score the place from 1 to 5 stars. Your rating will be aggregated with the ratings from other users: the average rating is what appears below the name of the bodega.
+
+#### 4. Keep track of bodegas you've visited
 
 ![Visited flag](/images/wiki/feature-visited.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
 Check or uncheck the flag once you've clicked on the bodega you're visited
 
-#### 4. Use additional filters
+#### 5. Use additional filters
 
 ![See closed bodegas](/images/wiki/feature-closed.png){class='border-1 border-300' sizes='85vw sm:515px'}
 
@@ -96,6 +102,7 @@ Special filters:
 - Show only bodegas you have visited or those you haven't
 - Show bodegas that are temporarily or permanently closed
 - Show bodegas that you've submitted for review, or hide them
+- Show only bodegas above a certain rating (1 to 5 stars)
 
 ## Disclaimer
 
