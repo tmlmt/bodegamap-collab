@@ -31,6 +31,16 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.2.3
+
+#### 🚀 Enhancements
+
+- **wiki:** Add bodega rating as new feature
+
+#### 🩹 Fixes
+
+- **schema:** Multiple fixes
+
 ### v2.2.2
 
 #### 🩹 Fixes
