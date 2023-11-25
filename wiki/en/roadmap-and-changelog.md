@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-11-01"
+      content: "2023-11-25"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -31,9 +31,31 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.2.2
+
+#### 🩹 Fixes
+
+- **schema:** multiple fixes
+
+### v2.2.1
+
+#### 🩹 Fixes
+
+- **filterSidebar:** Duplicate rating filter
+- **RightSidebar:** Increment rating count after rating
+
+### v2.2.0
+
+#### 🚀 Enhancements
+
+- **Registered users can now rate bodegas from 1 to 5 stars**
+- **locale:** Add German translation 🇩🇪 by [Vincent S](/en/wiki/contributors)
+- **FilterSidebar:** Add icons
+- **seo:** Add schema-org for rich results
+
 ### v2.1.2
 
-### 🩹 Fixes
+#### 🩹 Fixes
 
 - **seo**: improved sitemap
 
