@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-11-25"
+      content: "2023-11-27"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -30,6 +30,13 @@ The plans might change over time, but the focus in the coming period will revolv
 - Bug fixes and maybe some feature requests you have submitted in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
 ## Changelog (user-facing changes)
+
+### v2.3.0
+
+#### 🚀 Enhancements
+
+- **Update basemap and include Bornholm**
+- Custom error page
 
 ### v2.2.3
 
