@@ -31,6 +31,17 @@ The plans might change over time, but the focus in the coming period will revolv
 
 ## Changelog (user-facing changes)
 
+### v2.3.3
+
+#### 🩹 Fixes
+
+- **seo:** Remove relevant German pages from index
+- Fetch metadata when opening BottomPanel
+
+### v2.3.1-v2.3.2
+
+Various fixes under the hood
+
 ### v2.3.0
 
 #### 🚀 Enhancements
