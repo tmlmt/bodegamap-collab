@@ -16,7 +16,7 @@ City: City
 Closed: Closed
 Closed permanently: Closed permanently
 Closed temporarily: Closed temporarily
-Closed - Opens Next: "{closed} - Opens {day} at {time}"
+Closed - Opens Next: "{closed} - {verb} {moment} at {time}"
 Closes soon at: "{closes} at {time}"
 Closes soon: Closes soon
 Confirmation: Confirmation
@@ -73,6 +73,7 @@ Message: Message
 My Account: My Account
 My review: My review
 Name: Name
+next: next
 New password: New password
 "No": "No"
 No bodega found: No bodega found
@@ -84,6 +85,7 @@ Number of bodegas with at least one image: Number of bodegas with at least one i
 Number of bodegas with opening hours: Number of bodegas with opening hours
 Number of bodegas with all characteristics filled in: Number of bodegas with all characteristics entered
 Open: Open
+Opens: Opens
 Open now: Open now
 Open until: "{open} until {time}"
 Opening Hours: Opening Hours
@@ -109,6 +111,7 @@ Regenerate: Regenerate
 regenerate: regenerate
 Register: Register
 register here: register here
+Reopens: Reopens
 Requirements: Requirements
 Reviews: Reviews
 Roadmap and Collaboration: Roadmap and Collaboration
@@ -140,6 +143,7 @@ Smoking allowed: Smoking allowed
 Smoking not allowed: Smoking not allowed
 Sign in: Sign in
 Sign out: Sign out
+soon: soon
 Statistics: Statistics
 Status: Status
 Street: Street
