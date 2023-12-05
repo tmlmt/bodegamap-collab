@@ -7,6 +7,7 @@ Add Bodega: Bodega hinzufügen
 Address: Adresse
 All ratings: Alle Bewertungen
 And: Und
+Anytime: Jederzeit
 Article available soon: Artikel bald verfügbar
 Authors: Authoren
 BuyMeATuborg: "Wenn du diese Karte magst und uns unterstützen möchtest, kauf uns ein Bier"
@@ -78,6 +79,7 @@ New password: Neues Passwort
 No bodega found: Keine Bodega gefunden
 No bodega selected: Keine Bodega ausgewählt
 No bodega in current view: Keine Bodega in der aktuellen Ansicht
+Now: Jetzt
 Number of bodegas in database: Anzahl an Bodegas in der Datenbank
 Total estimated in Denmark: Gesamtzahl in Dänemark (geschätzt)
 Number of bodegas with at least one image: Anzahl an Bodegas mit mindestens einem Bild
@@ -85,7 +87,6 @@ Number of bodegas with opening hours: Anzahl an Bodegas mit Öffnungszeiten
 Number of bodegas with all characteristics filled in: Anzahl an Bodegas mit allen Eigenschaften
 Open: Offen
 Opens: Öffnet
-Open now: Jetzt offen
 Open until: "{open} bis {time}"
 Opening Hours: Öffnungszeiten
 Optional: Optional
@@ -142,6 +143,7 @@ Smoking not allowed: Rauchen nicht erlaubt
 Sign in: Einloggen
 Sign out: Ausloggen
 soon: bald
+Specific time: Bestimmte Zeit
 Statistics: Statistiken
 Status: Status
 Street: Straße

@@ -7,6 +7,7 @@ Add Bodega: Add Bodega
 Address: Address
 All ratings: All ratings
 And: And
+Anytime: Anytime
 Article available soon: Article available soon
 Authors: Authors
 BuyMeATuborg: "If you enjoyed this map and would like to show your support, buy us a beer"
@@ -79,6 +80,7 @@ New password: New password
 No bodega found: No bodega found
 No bodega selected: No bodega selected
 No bodega in current view: No bodega in current view
+Now: Now
 Number of bodegas in database: Number of bodegas in database
 Total estimated in Denmark: Total estimated in Denmark
 Number of bodegas with at least one image: Number of bodegas with at least one image
@@ -86,7 +88,6 @@ Number of bodegas with opening hours: Number of bodegas with opening hours
 Number of bodegas with all characteristics filled in: Number of bodegas with all characteristics entered
 Open: Open
 Opens: Opens
-Open now: Open now
 Open until: "{open} until {time}"
 Opening Hours: Opening Hours
 Optional: Optional
@@ -144,6 +145,7 @@ Smoking not allowed: Smoking not allowed
 Sign in: Sign in
 Sign out: Sign out
 soon: soon
+Specific time: Specific time
 Statistics: Statistics
 Status: Status
 Street: Street

@@ -7,6 +7,7 @@ Add Bodega: Añadir bodega
 Address: Dirección
 All ratings: Todas la valoraciones
 And: "Y"
+Anytime: Cualquier momento
 Article available soon: Articulo pronto disponible
 Authors: Autores
 BuyMeATuborg: Cómprame una Tuborg
@@ -77,6 +78,7 @@ New password: Nueva contraseña
 No bodega found: No se encontró ninguna bodega
 No bodega selected: No bodega seleccionada
 No bodega in current view: No bodega en la ventana actual
+Now: Ahora
 Number of bodegas in database: Número de bodegas en la base de datos
 Total estimated in Denmark: Total estimadas en Dinamarca
 Number of bodegas with at least one image: Número de bodegas con al menos una imagen
@@ -84,7 +86,6 @@ Number of bodegas with opening hours: Número de bodegas con horarios de apertur
 Number of bodegas with all characteristics filled in: Número de bodegas con todas las caracterícticas completadas
 Open: Abierto
 Opens: Abre
-Open now: Abierto ahora
 Open until: "{open} hasta kl.{time}"
 Opening Hours: Horario de apertura
 Optional: Opcional
@@ -152,6 +153,7 @@ Smoking not allowed: Prohibido fumar
 Sign in: Iniciar sesión
 Sign out: Finalizar sessión
 soon: pronto
+Specific time: Hora específica
 Statistics: Estadísticas
 Status: Estado
 Street: Calle
