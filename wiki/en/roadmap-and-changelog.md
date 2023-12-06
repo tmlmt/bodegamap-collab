@@ -38,6 +38,7 @@ The plans might change over time, but the focus in the coming period will revolv
 - Opening Hours improvements:
   - Advanced filtering on opening time, including filtering on specific day and time
   - Use more precise words: "today" if relevant, "reopens" if was open earlier in the day, "(re)opens soon" if opening within one hour
+- Add version number in About menu
 
 #### 🩹 Fixes
 
