@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-11-27"
+      content: "2023-12-06"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -30,6 +30,18 @@ The plans might change over time, but the focus in the coming period will revolv
 - Bug fixes and maybe some feature requests you have submitted in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
 ## Changelog (user-facing changes)
+
+### v2.4.0
+
+#### 🚀 Enhancements
+
+- Opening Hours improvements:
+  - Advanced filtering on opening time, including filtering on specific day and time
+  - Use more precise words: "today" if relevant, "reopens" if was open earlier in the day, "(re)opens soon" if opening within one hour
+
+#### 🩹 Fixes
+
+- Add rating filter to sharing link
 
 ### v2.3.3
 
