@@ -7,6 +7,7 @@ Add Bodega: Add Bodega
 Address: Address
 All ratings: All ratings
 And: And
+Anytime: Anytime
 Article available soon: Article available soon
 Authors: Authors
 BuyMeATuborg: "If you enjoyed this map and would like to show your support, buy us a beer"
@@ -16,7 +17,7 @@ City: City
 Closed: Closed
 Closed permanently: Closed permanently
 Closed temporarily: Closed temporarily
-Closed - Opens Next: "{closed} - Opens {day} at {time}"
+Closed - Opens Next: "{closed} - {verb} {moment} at {time}"
 Closes soon at: "{closes} at {time}"
 Closes soon: Closes soon
 Confirmation: Confirmation
@@ -73,18 +74,20 @@ Message: Message
 My Account: My Account
 My review: My review
 Name: Name
+next: next
 New password: New password
 "No": "No"
 No bodega found: No bodega found
 No bodega selected: No bodega selected
 No bodega in current view: No bodega in current view
+Now: Now
 Number of bodegas in database: Number of bodegas in database
 Total estimated in Denmark: Total estimated in Denmark
 Number of bodegas with at least one image: Number of bodegas with at least one image
 Number of bodegas with opening hours: Number of bodegas with opening hours
 Number of bodegas with all characteristics filled in: Number of bodegas with all characteristics entered
 Open: Open
-Open now: Open now
+Opens: Opens
 Open until: "{open} until {time}"
 Opening Hours: Opening Hours
 Optional: Optional
@@ -109,6 +112,7 @@ Regenerate: Regenerate
 regenerate: regenerate
 Register: Register
 register here: register here
+Reopens: Reopens
 Requirements: Requirements
 Reviews: Reviews
 Roadmap and Collaboration: Roadmap and Collaboration
@@ -140,6 +144,8 @@ Smoking allowed: Smoking allowed
 Smoking not allowed: Smoking not allowed
 Sign in: Sign in
 Sign out: Sign out
+soon: soon
+Specific time: Specific time
 Statistics: Statistics
 Status: Status
 Street: Street
@@ -152,6 +158,7 @@ Terms of Service: Terms of Service
 There is an edit suggestion under review for this field: There is an edit suggestion under review for this field
 There are hidden edit suggestions under review: There are hidden edit suggestions under review for this bodega
 This is a community project: "This is a community project by {authors}"
+today: today
 Top 10 visited: Top 10 visited
 Under review: Under review
 This bodega is under review: This bodega is under review and will only be visible to you until it's approved

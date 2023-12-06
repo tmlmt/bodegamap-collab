@@ -7,6 +7,7 @@ Add Bodega: Tilføje Bodega
 Address: Adresse
 All ratings: Alle bedømmelser
 And: Og
+Anytime: Når som helst
 Article available soon: Artikel snart tilgængelig
 Authors: Forfattere
 BuyMeATuborg: "Hvis du nød dette kort og du gerne vil vise din støtte, køb os en øl"
@@ -16,7 +17,7 @@ City: By
 Closed: Lukket
 Closed permanently: Lukket permanent
 Closed temporarily: Midlertidligt lukket
-Closed - Opens Next: "{closed} - Åbner {day} kl.{time}"
+Closed - Opens Next: "{closed} - {verb} {moment} kl.{time}"
 Closes soon at: "{closes} kl.{time}"
 Closes soon: Lukker snart
 Confirmation: Bekræftelse
@@ -71,18 +72,20 @@ Message: Besked
 My Account: Min Konto
 My review: Min anmeldelse
 Name: Navn
+next: næste
 New password: Ny adgangskode
 "No": Nej
 No bodega found: Intet værtshus fundet
 No bodega selected: Intet valgt værtshus
 No bodega in current view: Intet værthus i aktuel visning
+Now: Nu
 Number of bodegas in database: Antal af bodegas i databasen
 Total estimated in Denmark: Samlet anslået antal i Danmark
 Number of bodegas with at least one image: Antal af bodegas med mindst ét billede
 Number of bodegas with opening hours: Antal af bodegas med åbningstider
 Number of bodegas with all characteristics filled in: Antal af bodegas med alle egenskaber udfyldt
 Open: Åbent
-Open now: Åbent nu
+Opens: Åbner
 Open until: "{open} til kl.{time}"
 Opening Hours: Åbningstider
 Optional: Valgfri
@@ -116,6 +119,7 @@ Regenerate: Genopret
 regenerate: genopret
 Register: Oprette konto
 register here: opret en ny konto her
+Reopens: Åbner igen
 Requirements: Krav
 Reviews: Bedømmelser
 Save: Gem
@@ -140,6 +144,8 @@ Smoking allowed: Der må ryges
 Smoking not allowed: Der må ikke ryges
 Sign in: Log ind
 Sign out: Log ud
+soon: snart
+Specific time: Bestemt tid
 Statistics: Statistikker
 Status: Status
 Street: Gade
@@ -152,6 +158,7 @@ Terms of Service: Servicevilkår
 There is an edit suggestion under review for this field: Der er et ændringsforslag under gennemgang for dette felt
 There are hidden edit suggestions under review: Der er skulte ændringsforslag under gennemgang til denne bodega
 This is a community project: "Dette er et fælleskabssprojekt af {authors}"
+today: i dag
 Top 10 visited: Top 10 besøgt
 Under review: Under gennemgang
 This bodega is under review: Denne bodega er under gennemgang og vil kun være synlig for dig, indtil den er godkendt

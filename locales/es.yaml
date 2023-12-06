@@ -7,6 +7,7 @@ Add Bodega: Añadir bodega
 Address: Dirección
 All ratings: Todas la valoraciones
 And: "Y"
+Anytime: Cualquier momento
 Article available soon: Articulo pronto disponible
 Authors: Autores
 BuyMeATuborg: Cómprame una Tuborg
@@ -16,7 +17,7 @@ City: Ciudad
 Closed: Cerrado
 Closed permanently: Cerrado permanentemente
 Closed temporarily: Cerrado temporalmente
-Closed - Opens Next: "{closed} - Abierto {day} a las {time}"
+Closed - Opens Next: "{closed} - {verb} {moment} a las {time}"
 Closes soon at: "{closes} a las {time}"
 Closes soon: Cierra pronto
 Confirmation: Confirmación
@@ -71,18 +72,20 @@ Message: Mensaje
 My Account: Mi Cuenta
 My review: Mi reseña
 Name: Nombre
+next: el próximo
 New password: Nueva contraseña
 "No": "No"
 No bodega found: No se encontró ninguna bodega
 No bodega selected: No bodega seleccionada
 No bodega in current view: No bodega en la ventana actual
+Now: Ahora
 Number of bodegas in database: Número de bodegas en la base de datos
 Total estimated in Denmark: Total estimadas en Dinamarca
 Number of bodegas with at least one image: Número de bodegas con al menos una imagen
 Number of bodegas with opening hours: Número de bodegas con horarios de aperturas
 Number of bodegas with all characteristics filled in: Número de bodegas con todas las caracterícticas completadas
 Open: Abierto
-Open now: Abierto ahora
+Opens: Abre
 Open until: "{open} hasta kl.{time}"
 Opening Hours: Horario de apertura
 Optional: Opcional
@@ -124,6 +127,7 @@ Regenerate: Regenerar
 regenerate: regenere
 Register: Registrarse
 register here: registrate aqui
+Reopens: Reabre
 Requirements: Requisitos
 Reviews: Reseñas
 Save: Guardar
@@ -148,6 +152,8 @@ Smoking allowed: Permitido fumar
 Smoking not allowed: Prohibido fumar
 Sign in: Iniciar sesión
 Sign out: Finalizar sessión
+soon: pronto
+Specific time: Hora específica
 Statistics: Estadísticas
 Status: Estado
 Street: Calle
@@ -160,6 +166,7 @@ Terms of Service: Términos de Servicio
 There is an edit suggestion under review for this field: Hay una sugerencia de cambio en revisión para este campo
 There are hidden edit suggestions under review: Hay sugerencia de cambio ocultas en revisión para esta bodega
 This is a community project: Esto es un proyecto comunitario
+today: hoy
 Top 10 visited: Top 10 en visitas
 Under review: En revisión
 This bodega is under review: Esta bodega está en revisión y solo será visible para ti hasta que sea aprobada.

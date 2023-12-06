@@ -7,6 +7,7 @@ Add Bodega: Bodega hinzufügen
 Address: Adresse
 All ratings: Alle Bewertungen
 And: Und
+Anytime: Jederzeit
 Article available soon: Artikel bald verfügbar
 Authors: Authoren
 BuyMeATuborg: "Wenn du diese Karte magst und uns unterstützen möchtest, kauf uns ein Bier"
@@ -16,7 +17,7 @@ City: Stadt
 Closed: Geschlossen
 Closed permanently: Dauerhaft geschlossen
 Closed temporarily: Zur Zeit geschlossen
-Closed - Opens Next: "{closed} - Öffnet {day} um {time}"
+Closed - Opens Next: "{closed} - {verb} {moment} um {time}"
 Closes soon at: "{closes} um {time}"
 Closes soon: Schließt bald
 Confirmation: Bestätigung
@@ -72,18 +73,20 @@ Message: Nachricht
 My Account: Mein Account
 My review: Meine Bewertung
 Name: Name
+next: Nächste
 New password: Neues Passwort
 "No": "Nein"
 No bodega found: Keine Bodega gefunden
 No bodega selected: Keine Bodega ausgewählt
 No bodega in current view: Keine Bodega in der aktuellen Ansicht
+Now: Jetzt
 Number of bodegas in database: Anzahl an Bodegas in der Datenbank
 Total estimated in Denmark: Gesamtzahl in Dänemark (geschätzt)
 Number of bodegas with at least one image: Anzahl an Bodegas mit mindestens einem Bild
 Number of bodegas with opening hours: Anzahl an Bodegas mit Öffnungszeiten
 Number of bodegas with all characteristics filled in: Anzahl an Bodegas mit allen Eigenschaften
 Open: Offen
-Open now: Jetzt offen
+Opens: Öffnet
 Open until: "{open} bis {time}"
 Opening Hours: Öffnungszeiten
 Optional: Optional
@@ -108,6 +111,7 @@ Regenerate: Regenerieren
 regenerate: regenerieren
 Register: Registrieren
 register here: Hier registrieren
+Reopens: Öffnet wieder
 Requirements: Anforderungen
 Reviews: Bewertungen
 Roadmap and Collaboration: Roadmap und Zusammenarbeit
@@ -138,6 +142,8 @@ Smoking allowed: Rauchen erlaubt
 Smoking not allowed: Rauchen nicht erlaubt
 Sign in: Einloggen
 Sign out: Ausloggen
+soon: bald
+Specific time: Bestimmte Zeit
 Statistics: Statistiken
 Status: Status
 Street: Straße
@@ -150,6 +156,7 @@ Terms of Service: Nutzungsbedingungen
 There is an edit suggestion under review for this field: Es gibt eine Änderung in diesem Bereich, die überprüft wird
 There are hidden edit suggestions under review: Es gibt versteckte Änderungen für diese, die überprüft werden
 This is a community project: "Das ist ein gemeinsames Projekt von {authors}"
+today: Heute
 Top 10 visited: Top 10 besucht
 Under review: Wird überprüft
 This bodega is under review: Diese Bodega wird überprüft und erst öffentlich gemacht wenn sie überprüft wurde
