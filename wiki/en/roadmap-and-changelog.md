@@ -10,7 +10,7 @@ head:
     - property: "article:published_time"
       content: "2023-03-17"
     - property: "article:modified_time"
-      content: "2023-12-06"
+      content: "2023-12-07"
     - property: "article:section"
       content: "Introduction"
 ---
@@ -25,11 +25,27 @@ The plans might change over time, but the focus in the coming period will revolv
 
 - Adding a caption (for image credits)
 - Progressive loading of bodegas (performance)
-- Star ranking of bodegas (for registered users)
 - Ability to main and share lists of places (for registered users)
 - Bug fixes and maybe some feature requests you have submitted in the [collaboration repository](https://github.com/tmlmt/bodegamap-collab/issues)
 
 ## Changelog (user-facing changes)
+
+### v2.4.2
+
+#### 🚀 Enhancements
+
+- **ogImage:** Simplify default image with centered logo
+
+#### 🩹 Fixes
+
+- Incorrect opening hours in other time zones
+- **FilterSidebar:** Opening time's specific day and time not copied correctly in sharing link
+- Changing a filter (checkbox, dropdown) closes the sidebar
+- **ogImage:** Remove opacity of background image
+
+### v2.4.1
+
+Minor fix under the hood
 
 ### v2.4.0
 
